@@ -56,3 +56,7 @@ Questions worth trying:
 *Questions, connections, interest: [amy@beginin.org](mailto:amy@beginin.org)*
 
 *iN is a practical system for capturing things before you know how they matter.*
+
+---
+
+**Authorship:** Ideas, frameworks, and opinions are those of Amy K. Karlson. Tone and presentation evolve.

@@ -9,7 +9,7 @@ At the moment something catches your attention, you don't know if it matters. iN
 
 You can put a cake in an oven. Or you can use it to make the cake. Or all the cakes.
 
-This newsletter is how I document the practice: what to put in, how to ask, and what I've learned from both. This is how we learn a new "language," build muscle, motor memory, real memory. I built this for myself because nothing that has ever existed has solved the problem yet.
+This is where I share what I've learned.
 
 ---
 
