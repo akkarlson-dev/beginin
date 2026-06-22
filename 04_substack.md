@@ -7,13 +7,13 @@
 
 At the moment something catches your attention, you don't know if it matters. iN is one action. Put it in. The system holds it. Later, when you want to know what you've been thinking about, what keeps coming back, what your open loops are, you ask. The answer comes from what you put iN.
 
-This newsletter is about refining the cycle of capturing and asking with increasing skill and sophistication. This is how we learn a new "language," build muscle, motor memory, real memory. I built this for myself because nothing that has ever existed has solved the problem yet.
+This newsletter is how I document the practice: what to put in, how to ask, and what I've learned from both. This is how we learn a new "language," build muscle, motor memory, real memory. I built this for myself because nothing that has ever existed has solved the problem yet.
 
 ---
 
 **The community**
 
-iN is the tool. begiN is the community for people developing intuitions, comfort, flexibility and confidence to ask "the system" for what we need. It can do more than we thought would be possible. And no matter what our previous experience, we are literally all just begiNniNg this journey.
+iN is the tool. begiN is the community for people learning to use it well. The tool does more than most people think to try. Nobody has a head start here. We are all begiNniNg.
 
 ---
 
@@ -102,7 +102,7 @@ Now press and hold the iN icon until it wiggles. Drag it to the bottom tray. Tha
 
 Tap the iN icon on your home screen and submit something. Anything. The thing to buy at the store on the way home. The to-do that's been sitting in the back of your head for three days. The link you wanted to save but didn't. The household project you need to park somewhere.
 
-For now, use this as a scratchpad to capture ephemeral thoughts.
+For now, use this as a scratchpad, a place to put untethered thoughts from a to-do to a concern to a project idea.
 
 ---
 
