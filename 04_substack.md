@@ -7,6 +7,8 @@
 
 At the moment something catches your attention, you don't know if it matters. iN is one action. Put it in. The system holds it. Later, when you want to know what you've been thinking about, what keeps coming back, what your open loops are, you ask. The answer comes from what you put iN.
 
+You can use an oven to hide a cake. Or you can use it to make the cake. Or all the cakes.
+
 This newsletter is how I document the practice: what to put in, how to ask, and what I've learned from both. This is how we learn a new "language," build muscle, motor memory, real memory. I built this for myself because nothing that has ever existed has solved the problem yet.
 
 ---
