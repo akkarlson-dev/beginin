@@ -7,15 +7,19 @@
 
 At the moment something catches your attention, you don't know if it matters. iN is one action. Put it in. The system holds it. Later, when you want to know what you've been thinking about, what keeps coming back, what your open loops are, you ask. The answer comes from what you put iN.
 
-You can put a cake in an oven. Or you can use it to make the cake. Or all the cakes.
-
 This is where I share what I've learned.
 
 ---
 
 **The community**
 
-iN is the tool. begiN is the community for people learning to use it well. The tool does more than most people think to try. Nobody has a head start here. We are all begiNniNg.
+You can use an oven to warm a pie. Or bake the pie. Or all the pies.
+
+iN is the first act of intention. begiN is the community for people learning to leverage that intention for increasingly interesting goals. Today you look at it as a to-do list. Tomorrow you have replaced your 3rd party fitness tracker. That you built perfectly suited to you.
+
+The tool does more than most people think to try. It's not skill that's the gap. It's knowing how to use it for what you find personally interesting, entertaining and meaningful. And finding people who have energy around those ideas as well.
+
+Nobody has a head start here. We are all begiNniNg.
 
 ---
 
