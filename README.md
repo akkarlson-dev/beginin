@@ -35,6 +35,7 @@ Questions worth trying:
 | `07_gems.md` | Sharpest lines from the build. Concentrated version of the argument | Short on time |
 | `08_lenses.md` | Signal Lens and Content Filter System: how iN regulates what reaches you | The methodology |
 | `09_lens_story.md` | How the lenses got built: process account, design rationale, live proof of concept | The origin story |
+| `10_thread_lens.md` | ThreadLens: practical read on a text thread or message exchange, with sample | See the range |
 | `signal-lens-v1.md` | The Signal Lens prompt itself. 12-field digest, submittable to any AI engine | Run it |
 | `02_brand.md` | Visual and verbal identity: colors, type, tone rules, writing rules | Reference |
 | `04_substack.md` | Words live at beginin.substack.com: About page, first post | Current publication |
