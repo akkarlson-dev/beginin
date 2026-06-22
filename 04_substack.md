@@ -17,7 +17,7 @@ iN is the raw material. begiN is the forge.
 
 You can use an oven to warm a pie. Or bake the pie. Or all the pies.
 
-Today you look at it as a to-do list. Tomorrow you have replaced your 3rd party fitness tracker. That you built perfectly suited to you.
+Today you see it as a to-do list. Tomorrow you have a workout log with exactly the fields you care about. That you built. Perfectly suited to you.
 
 The tool does more than most people think to try. It's not skill that's the gap. It's knowing how to use it for what you find personally interesting, entertaining and meaningful. And finding people who have energy around those ideas as well.
 
