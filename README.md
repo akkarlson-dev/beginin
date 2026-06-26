@@ -30,12 +30,14 @@ Questions worth trying:
 
 | File | What it is | Read when |
 |---|---|---|
+| `00_context_brief.md` | Cover sheet: what's in the portfolio, what's live, one-paragraph version | Handed this cold |
 | `01_vision.md` | Full thesis: origin, core argument, begiNner framework, brand, pitch reframes | Start here |
 | `03_pitch.html` | Concept deck: nine slides, fastest way to see the whole thing | Open in browser |
 | `07_gems.md` | Sharpest lines from the build. Concentrated version of the argument | Short on time |
 | `08_lenses.md` | Signal Lens and Content Filter System: how iN regulates what reaches you | The methodology |
 | `09_lens_story.md` | How the lenses got built: process account, design rationale, live proof of concept | The origin story |
 | `10_thread_lens.md` | ThreadLens: practical read on a text thread or message exchange, with sample | See the range |
+| `11_host_meter.md` | Host Meter: three-axis credibility instrument for creators. 14 figures scored. Work in progress. | The case study |
 | `signal-lens-v1.md` | The Signal Lens prompt itself. 12-field digest, submittable to any AI engine | Run it |
 | `02_brand.md` | Visual and verbal identity: colors, type, tone rules, writing rules | Reference |
 | `04_substack.md` | Words live at beginin.substack.com: About page, first post | Current publication |
