@@ -39,6 +39,7 @@ Questions worth trying:
 | `10_thread_lens.md` | ThreadLens: practical read on a text thread or message exchange, with sample | See the range |
 | `11_host_meter.md` | Host Meter: three-axis credibility instrument for creators. 14 figures scored. Work in progress. | The case study |
 | `12_thick_skin.md` | Thick Skin: emotionally intelligent communication membrane. Full concept, 9-metric relational framework, AITA entry point, text entry lineage. Parked, not abandoned. | The origin |
+| `13_chi2027_outline.md` | CHI 2027 working paper outline: LLM literacy framework, PhyDigit connection, 18 research questions, formative study design. | The academic argument |
 | `signal-lens-v1.md` | The Signal Lens prompt itself. 12-field digest, submittable to any AI engine | Run it |
 | `02_brand.md` | Visual and verbal identity: colors, type, tone rules, writing rules | Reference |
 | `04_substack.md` | Words live at beginin.substack.com: About page, first post | Current publication |
