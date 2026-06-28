@@ -61,7 +61,7 @@ iN started as a product story. It became a movement story. The distinction matte
 The digital divide is no longer about access. Everyone has a phone. Most people have a Google account. The divide now runs along lines of education, tech-savviness, age, and confidence. The people left behind aren't locked out of the tool. They're locked out of the question. Nobody showed them what to bring to the blank box.
 
 **The mission (locked May 2026):**
-Teach ordinary people the first act of AI fluency: put something in before you ask. Not for tech bros building companies. For the person who is afraid of the blank box. For the person who has five apps and can't find anything. For the person who uses AI as a search bar because that's all anyone ever showed them.
+Teach ordinary people the first act of AI fluency: put something in before you ask. Not built for founders optimizing for scale. For the person who is afraid of the blank box. For the person who has five apps and can't find anything. For the person who uses AI as a search bar because that's all anyone ever showed them.
 
 **Movement, not product:**
 A product has features. A movement has a side to be on. begiN is the community that closes the cognitive divide, one begiNner at a time. The Substack is the movement's first public home: utility posts, AI literacy, Amy's voice, humor as the relief valve. iN is the platform behind it. begiN is what you join.
