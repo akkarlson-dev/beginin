@@ -1,8 +1,6 @@
 ﻿# iN / begiN: Foundation Synthesis
 
-**Owner:** Amy K. Karlson  
-**Last updated:** June 2026  
-**Purpose:** Living context document for Claude Code and cross-session continuity. Load this at the start of any iN/begiN working session.
+**Amy K. Karlson · June 2026**
 
 ---
 
@@ -83,7 +81,7 @@ Amy built Thick Skin first: an emotionally intelligent membrane for digital comm
 
 So she became test subject one. Submitted her own data, with her own question, to the oracle. Got something out that was meaningful in a way only she could appreciate. That's the power of AI used personally.
 
-Every NO became a wider door:
+Three pivots that shaped the direction:
 
 - TLC said no to an AI subgroup → iN is the plaza TLC can't be  
 - A potential partner said no to the product vision → Amy kept her IP  
@@ -191,7 +189,7 @@ Never buy another vertical tracker app again. Your fitness data. Your financial 
 
 **iN is a verb, not a noun. Human being is a verb. So is iN.**
 
-**Name system (locked May 25, 2026):**
+**Name system (May 2026):**
 - **iN**: the tool, the practice, the act. No period.
 - **begiN**: the community layer. No period.
 - **begiNners**: the member noun.
@@ -202,7 +200,7 @@ Amy is the brand. Raw. Honest. Funny. Smart. Available. Not squeaky clean. Still
 
 **Visual language:**
 
-Full palette (locked May 25, 2026):
+Full palette (May 2026):
 - `#0b1810`: deep forest black (background)
 - `#1e3a1f`: forest (secondary panels)
 - `#3d5f21`: mid green (tertiary/muted)
@@ -305,57 +303,17 @@ See `resources/lenses/` for the full specs and the first live digest (Brewer, Ju
 
 Lines worth keeping. Each one is also a proof-of-concept for what iN does: catching the thought upstream, before you've decided what it means.
 
-- *"The richness is in what's behind the summary. The summary is always a lie of some kind."* The whole iN thesis in one line.
+- *"The summary is always a lie of some kind."* The whole iN thesis in one line.
 
 - *"Capture without revisitation is just entropy with good intentions."* Why journaling failed until the possibility of return made it worth starting.
 
-- *"The journal as witness rather than oracle."* What iN is and isn't. Not analysis. Not answers. Material to think with.
-
-- *"iN the iNstant."* iN is the thing you do iN the iNstant. Discovered mid-conversation.
-
-- *"begiNners."* The word lives inside "beginners." Hidden movement. Beginner's mind. Invented on the spot.
-
 - *"You can't make anyone go back. Ever."* The design constraint that separates iN from every failed personal system before it.
 
-- *"Did you put it iN?"* The best product validation story. Belongs in the origin story.
+- *"You can't show up to the box empty-handed."* The tool is not the problem. The on-ramp is missing because nobody told you what to bring.
 
-- *"Every NO became a wider door."* The through-line of the origin story and the proof of concept for begiN.
+- *"They do not know commissioning is an option."* Even sophisticated users stop at the wrong abstraction layer. They learn to prompt. They don't learn they can direct.
 
-- *"iN is a vote."* Voting yes to the thought. Voting yes to yourself. The most compressed version of the whole act.
-
-- *"Capturing is the iNvestment. Level 1: record. Level 2: care that it ever happened."* What iN is NOT: a reminder system.
-
-- *"You are who you've been waiting for."* The user is the product. The missing ingredient was never the tool.
-
-- *"The raw material is the provenance."* Every summary is already a reinterpretation. iN catches it upstream, before you've decided what it means, before you've made it presentable. Every diary ever written is a summary. iN is not a diary.
-
-- *"Every summary is a lie of some kind, even the ones we tell ourselves. Now we don't have to."* The thesis, fully formed.
-
-- *"The relationship to the input changes if there is no conversation."* You can put something in without having to address it. Maybe it just felt good to say out loud.
-
-- *"iN solves BOTH problems. Immediate capture, then the most powerful revisitation tool in history."* Capture alone isn't enough. Revisitation is where the growth happens.
-
-- *"Stop searching. You have arrived. Jump iN."* The clearest CTA.
-
-- *"Wisdom takes work: if you don't write it down, did it ever happen?"* The case for capture in a single line.
-
-- *"You can't show up to the box empty-handed."* The tool is not the problem. The on-ramp is missing because nobody told you what to bring. (June 2026)
-
-- *"They do not know commissioning is an option."* The fractal black box insight: even sophisticated users stop at the wrong abstraction layer. They learn to prompt. They don't learn they can direct. (June 2026)
-
-- *"The black box gets more powerful and more opaque as models improve. Your input signal is the only lever you ever own."* Sophistication doesn't solve the black box problem. It moves it to the next level. The input side is the only stable ground at every level. (June 2026)
-
-- *"A mood is not a trait."* The standing rule for the content filter. Whether something registers as nourishing or as noise is a durable signal — it doesn't move with your mood, the way a food allergy doesn't depend on whether you're hungry. Whether you need something funny tonight is not a signal about the creator. Conflating the two corrupts the archive. The design keeps them permanently separate. (June 2026)
-
-- *"The system caught itself making the exact mistake it was built to prevent."* During the content filter build, two independent Bernstein lineages were merged into one tidy story because the merged version made a cleaner sentence. That is provenance collapse — the exact failure the Lineage Trace field was built to catch. Corrected. Preserved in the spec on purpose. The summary is always some kind of lie. The only defense: check provenance before you compress it. (June 2026)
-
-- *"c is the passion point."* The trusted external resource in the validation model (D = a·b + c) is also the thing you already care about. You bring it because you care. And because you bring something real, you can judge what comes back. (June 2026)
-
-- *"Passion is the prerequisite for iNtention. iNtention is the prerequisite for a useful output."* Why subgroups are organized by topic, not skill level. The c is the ignition. (June 2026)
-
-- *"The subgroup is organized around the c, not around AI."* The steward is a framework expert, not an AI expert. The community is organized around what people already give a damn about. (June 2026)
-
-- *"The prompt is the public part."* The method is teachable. The personal data is always private. That is the difference between a secret and a course. (June 2026)
+- *"The prompt is the public part."* The method is teachable. The personal data is always private. That is the difference between a secret and a course.
 
 ---
 
