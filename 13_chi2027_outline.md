@@ -62,6 +62,18 @@ IN. (intoyourspace.com) is a personal micro-capture platform built on three prin
 
 This paper presents a formative study of IN. with a first cohort: 25 people, 4 weeks, structured as a micro-capture course, with pre/post measurement and optional semi-structured interviews.
 
+### The Community Bet
+
+The solo version of iN is useful. The cohort version is the core design bet.
+
+begiN is the community layer built on top of iN. Its structural claim is that LLM literacy develops faster, deeper, and in more generative directions when practiced in a cohort than when practiced alone. The mechanism is not instruction: it is peer modeling at the output level. Participants never share their data. They share what they brought to it, what they got back, and what surprised them. Watching another person query their own life at Stage 3 when you are at Stage 2 is not just motivating: it is cognitively reorganizing. It shows you that Stage 3 is possible and gives you a concrete image of what it looks like.
+
+This is not a novel claim in learning theory. Communities of practice (Lave & Wenger 1991) establish that learning is fundamentally situated: newcomers develop expertise through legitimate peripheral participation, watching and gradually joining the practice of more expert members. What is novel here is the specific application: the "practice" being shared is not a craft or a professional skill. It is the act of querying your own life. The data stays private. The methodology transfers.
+
+The paper therefore asks two intertwined questions: does personal micro-capture scaffold LLM literacy development? And does cohort practice accelerate and deepen that development in ways that solo use does not?
+
+begiN is designed around one structural bet: people learn to ask better questions about themselves when they hear other people asking better questions about themselves. This paper is the first empirical test of both.
+
 ### Contributions
 1. **LLM literacy as construct**: a framework distinguishing LLM literacy (personal meaning-making through AI conversation grounded in one's own data) from existing AI literacy frameworks focused on tool understanding
 2. **The scaffold model**: personal micro-capture as the zero-friction onramp that makes AI conversation personally meaningful
@@ -106,7 +118,21 @@ The development of LLM literacy bears structural resemblance to both skill acqui
 
 The common thread: literacy is not transmitted, it is developed through repeated, contextually grounded practice. IN. is designed to provide exactly this: low-friction, high-frequency, personally meaningful practice: and this study asks what that produces.
 
-### 2.6 Reflective Practice & Learning Theory
+### 2.6 Community-Based Learning & Cohort Effects
+
+The begiN course is structured as a learning cohort, not a solo tool deployment. This design choice is grounded in a body of literature on community-based and situated learning.
+
+Lave & Wenger (1991) proposed that learning is fundamentally situated in communities of practice: newcomers develop expertise through legitimate peripheral participation, progressively taking on more central roles as their competence grows. Applied here: early begiN participants are peripherally watching others query their own data before they have developed sufficient capture volume or query sophistication to do so themselves. Observing is the entry point. Doing follows.
+
+Vygotsky's Zone of Proximal Development (1978, cited above in §2.5) is again relevant here. In a cohort, a participant at Stage 2 (View) who observes a Stage 4 peer (Expand) is receiving input that is above their current level but comprehensible because the domain is the same: personal data. This is scaffolded input at the community level, not the system level.
+
+Palincsar & Brown's (1984) work on reciprocal teaching established that peer explanation accelerates comprehension beyond what individual study achieves: the act of articulating what you understood forces a reorganization of understanding. In begiN calls and breakout rooms, participants articulate what they captured, what they asked, and what came back. This articulation is not just sharing: it is a forced-encoding learning event.
+
+What distinguishes this setting from conventional community learning: the underlying data is always private. Participants model methodology, not content. "I asked my data what I've been avoiding and it told me three things" transfers as a methodology even when the three things are never disclosed. This is a structurally novel form of social learning: the practice is shared, the evidence is not.
+
+The paper asks whether this design produces measurable acceleration in LLM literacy development, and what specific mechanisms in the cohort setting drive it.
+
+### 2.7 Reflective Practice & Learning Theory
 Kolb (1984) proposed the Learning Cycle: concrete experience → reflective observation → abstract conceptualization → active experimentation. Schön (1983) described Reflective Practice as knowing-in-action and reflection-in-action: the practitioner's ongoing dialogue with their own experience.
 
 IN. operationalizes the Kolb cycle on personal data: capture (experience) → query (reflection) → insight (conceptualization) → behavior change (experimentation). The 4-week course is designed to move participants through this cycle deliberately, with the course structure aligned to the cycle's stages.
@@ -252,6 +278,10 @@ A structured 4-week course, modeled on community-based learning cohorts (e.g., M
 - **RQ13**: What do people share in the community channel: insights, how-to, emotional resonance, data?
 - **RQ14**: Does the cohort naturally become a maker space: do people co-create queries, share templates, build on each other's frameworks?
 - **RQ15**: Does observing others' queries (never their data) change how a participant crafts their own?
+- **RQ13b**: Does cohort participation change what *types* of things people capture? Does exposure to others' outputs (never their data) expand the input categories participants think to bring?
+- **RQ13c**: Do people formulate more sophisticated or more varied queries after hearing others' questions in a group call? Is there a measurable "unlocking" effect where one person's example raises the ceiling for others?
+- **RQ13d**: Does cohort learning accelerate stage progression compared to solo use? Are there identifiable tipping moments in group calls where a single share reorganizes the frame for the whole group?
+- **RQ13e**: What is the specific learning function of breakout rooms? Do peer-to-peer exchanges produce qualitatively different insight types than whole-group discussion or solo querying? What happens in those rooms that does not happen in the larger call?
 
 ### On the Friction Question (connecting to PhyDigit)
 - **RQ16**: As perceived value of accumulated data grows, does capture frequency increase?
@@ -290,7 +320,8 @@ A structured 4-week course, modeled on community-based learning cohorts (e.g., M
 2. **The scaffold model**: personal micro-capture as the zero-friction onramp: a replicable design pattern for AI onboarding
 3. **Stage taxonomy**: empirically grounded stages of LLM literacy development in first-time users, with behavioral markers for each stage
 4. **The friction answer**: data on whether PhyDigit CostEngaging reduction tips behavior toward capture, and the downstream effects
-5. **Design implications**: for AI interface designers, personal informatics researchers, and community learning practitioners
+5. **The cohort effect**: empirical data on whether community practice accelerates LLM literacy development beyond solo use, and what specific cohort mechanisms drive it. This is the central bet of begiN as a product: that people learn to bring better questions when they hear others bringing better questions. This paper provides the first empirical test of that claim.
+6. **Design implications**: for AI interface designers, personal informatics researchers, and community learning practitioners
 
 ---
 
