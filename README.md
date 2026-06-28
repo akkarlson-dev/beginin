@@ -31,8 +31,8 @@ Questions worth trying:
 | File | What it is | Read when |
 |---|---|---|
 | `00_context_brief.md` | Cover sheet: what's in the portfolio, what's live, one-paragraph version | Handed this cold |
-| `01_vision.md` | Full thesis: origin, core argument, begiNner framework, brand, pitch reframes | Start here |
-| `03_pitch.html` | Concept deck: nine slides, fastest way to see the whole thing | Open in browser |
+| `03_pitch.html` | Concept deck: nine slides, fastest way to see the whole thing | Start here — open in browser |
+| `01_vision.md` | Full thesis: origin, core argument, begiNner framework, brand, pitch reframes | Full picture |
 | `07_gems.md` | Sharpest lines from the build. Concentrated version of the argument | Short on time |
 | `08_lenses.md` | Signal Lens and Content Filter System: how iN regulates what reaches you | The methodology |
 | `09_lens_story.md` | How the lenses got built: process account, design rationale, live proof of concept | The origin story |
@@ -49,7 +49,7 @@ Questions worth trying:
 
 ## Reading order
 
-**30 minutes:** `01_vision.md` → `03_pitch.html`
+**30 minutes:** `03_pitch.html` → `01_vision.md`
 
 **The methodology in depth:** `08_lenses.md` → `09_lens_story.md` → `signal-lens-v1.md`
 
