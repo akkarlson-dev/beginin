@@ -56,53 +56,66 @@ Pick your level and scroll down.
 
 ### Toe
 
-This is the simplest possible version. You can always add to it. Immediately yours, with no Google apps required on your phone.
+Start here if you want the fastest path to something working. All you need is a Google account, which you almost certainly have.
 
-**Before you start**
+**One thing to check first**
 
-Check which Google account is active in your browser. Go to google.com and look at the profile icon in the top right corner. It needs to be your main personal account, not a work account and not a secondary one. Everything you're about to build lives in that account. If you start in the wrong one, you'll lose the thread.
+Check which Google account is active in your browser. Go to google.com and look at the profile icon in the top right corner. It needs to be your main personal account, not a work account and not a secondary one.
 
-**What you need**
-
-You need a Google account, which you almost certainly already have. No payment, no app to install.
+This matters at the moment you click Make a copy. Whichever account is active then owns the form and receives all entries. After that, you can fill it out from any browser regardless of which account is signed in.
 
 ---
 
-**Step 1: Copy the template and make it yours**
+**Step 1: Copy the template to your own Google Drive**
 
-These steps are for iPhone. Android and desktop users: the flow is similar. If you already have Google Sheets or Drive installed, a few steps may look a little different. If you get stuck, drop a comment below.
+These steps are for iPhone. Android and desktop users: the flow is similar. If you get stuck, drop a comment below.
 
-Go here: [Amy's Template Google Form](https://docs.google.com/forms/u/0/d/1yaV5d6cMUVsQKQ-dk3PVlK-oy1wxQ7NmiVzrKzqmHc8/copy) and click Make a copy.
+Go here: [Amy's Template Google Form](https://docs.google.com/forms/u/0/d/1yaV5d6cMUVsQKQ-dk3PVlK-oy1wxQ7NmiVzrKzqmHc8/copy) and click **Make a copy**.
+
+You'll see: "Would you like to make a copy of Copy of Amy Karlson's iN Form?" Click Make a copy.
 
 If you see a "You need permission" screen, you're signed into the wrong account. Go back, switch to your main Google account, and try the link again.
 
-The form opens in edit mode. Tap the title in the upper left and rename it to something you'll recognize. "iN" works fine.
-
-Your form is private: nobody else sees your captures.
+The form opens. Tap the title in the upper left (it says "Copy of Amy Karlson's iN Form") and rename it something shorter, like "iN Form" or just "iN". That could be the only change you make before you start entering.
 
 ---
 
-**Step 2: Look at what you have**
+**Step 2: Look at the form**
 
-Three fields:
+The form is in edit mode. Mostly you'll use it in entry mode, not here. But take a look at what you have.
 
-- **What's on your mind?** The only required field. One word, one sentence, one paragraph. Whatever's there.
-- **Tags?** A word or two to help you find this later. Work. To Do. Idea. Buy.
-- **Context?** A link, a name, a next step. Anything that would help future-you (or...?) follow up.
+Three fields, one required:
 
-That's the whole form. For now, it's plenty.
+- **What?** The only required field. What you want to capture.
+- **Hashtag? Category?** Pick one: To Do, Work, Thought, or Remember / Revisit / Refine.
+- **Momentum?** A link, a name, anything that'll help you follow up.
+
+These are my defaults. If you want different ones, this is where you change them. Make changes if you're feeling adventurous.
+
+You've just built a cauldron. Or a carpet bag. Or a magic lamp. Or a forge. Pick whatever metaphor resonates. It's exactly why this tool is for everyone.
 
 ---
 
-**Step 3: Publish it and add it to your home screen**
+**Step 3: Add it to your home screen**
 
-Tap the 🔗 icon at the top. If you see a message that the form is unpublished, tap Publish. This just means anyone with the link can fill it out. Your responses still go only to your sheet.
+Click the link button (🔗) at the top of the screen, two icons to the right of the painter's palette. If you see a message that the form is unpublished, tap Publish. Don't let the word worry you. It just means the form is accessible via link. Your responses still go only to your sheet, not to anyone else.
 
-Tap the responder link URL and tap Open Link. Your live form opens in a browser window.
+To open your form, you have two options:
 
-Tap the three dots in the lower right, then Share, then View More, then the + icon, then Add to Home Screen. Rename it iN. Make sure Open as Web App is on. Tap Add.
+- Tap the highlighted link, then tap Open Link.
+- Or tap Copy, open Safari, and paste the URL into the address bar.
 
-Now press and hold the iN icon until it wiggles. Drag it to the bottom tray. That tray stays visible on every screen.
+Your form opens in a phone browser window.
+
+**Important:** This is your only way back to the form if you don't have Google Drive installed on your phone yet. The next steps save it to your home screen. Do them before you close this window.
+
+- Tap the three dots in the lower right
+- Tap Share, then View More
+- Tap Add to Home Screen [next to the + icon]
+- Rename it iN (or a variation on that)
+- Tap Add
+
+Once created, you will want this app on your home screen ideally. I put it on my task bar. To move it, press and hold the iN icon until it wiggles, then drag it to the home screen or the bottom tray, which stays visible on every screen.
 
 ---
 
@@ -118,11 +131,11 @@ For now, use this as a scratchpad, a place to put untethered thoughts from a to-
 
 Tap Submit another response, then tap the edit icon (pencil) at the lower right. That takes you back to your form in edit mode. If you don't see the pencil, make sure your browser is signed into the same account you used to create the form.
 
-Tap Responses at the top. You'll see a number next to it: those are your entries. Tap it to see a summary of what you've captured.
+Tap Responses at the top. You'll see a number next to it. Those are your entries. Tap it to see a summary of what you've captured.
 
 In that same view, tap the green square Sheets icon towards the upper right. Select Create a new spreadsheet, then tap Create. A notification at the bottom says "Spreadsheet linked." Tap Open and there are your entries.
 
-You may be asked if you'd like to edit it within the Sheets app. You don't need it for now. Tap No Thanks.
+You may be asked if you'd like to edit it within the Sheets app. You don't need it yet. Tap No Thanks. It's enough to know your data is there, in a spreadsheet you own.
 
 ---
 
