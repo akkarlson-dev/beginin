@@ -315,6 +315,8 @@ Lines worth keeping. Each one is also a proof-of-concept for what iN does: catch
 
 - *"The prompt is the public part."* The method is teachable. The personal data is always private. That is the difference between a secret and a course.
 
+- *"The pull prompt asks the user to manufacture interest on demand. Real dialog needs a driver: someone who arrives caring enough to drive, direct, and craft the exchange."* Why AI-generated discovery prompts don't work. The energy has to come from the user's side. iN builds the substrate so it's already there.
+
 ---
 
 ## 14\. Open Action Items
