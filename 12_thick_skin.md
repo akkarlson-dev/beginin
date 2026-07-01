@@ -13,7 +13,7 @@ The membrane metaphor is precise. A membrane doesn't block: it regulates flow. T
 
 The insight that started it: you could look at a chat thread and get a complete read on the power dynamic. Contempt, repair attempts, weaponized delay, message length asymmetry, who initiates, who absorbs. It's all there. The question was what to do with it.
 
-Originally conceived for DV victims. Then realized: it's universal. Everyone is navigating communication they weren't trained for, at a pace they didn't choose, on a medium designed for engagement, not dignity.
+Everyone is navigating communication they weren't trained for, at a pace they didn't choose, on a medium designed for engagement, not dignity.
 
 One reframe worth keeping: thick skin is an attribute of the AI, not the product name. The AI is the thick-skinned one. The user gets to be soft.
 
