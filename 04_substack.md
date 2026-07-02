@@ -35,20 +35,22 @@ I'm not ten steps ahead. I'm one step ahead.
 
 ## Post 1: Let's step iN
 *Published May 2026. Full Toe/Foot/ShiN version ready to replace current published Toe-only version.*
-
-**Today's skill:** Set up your capture system.
+**Subtitle:** Set up your private "database" and make it accessible from your phone.
+**Today's skill:** Set up your capture and storage duo.
 
 | | | |
 |---|---|---|
 | **Toe** | Phone only. Copy my template. | Ten minutes. |
-| **Foot** | Laptop or PC. Build your own. | Twenty minutes. |
-| **ShiN** | Laptop + Google One AI Premium. Let your data lead. | Twenty minutes. |
+| **Foot** | Laptop or PC + Google One AI Premium. Write the spec, AI builds it. | Twenty minutes. |
+| **ShiN** | Laptop or PC + Google One AI Premium. Personalize with insights from your own data. | Twenty minutes. |
 
 ---
 
-The oven is on. Did you know that you can make bacon in the oven? It cooks more evenly and it's better for crowds. Most people don't think to try it. You literally just put it in.
+The oven is on. Did you know that you can make bacon in the oven? It cooks more evenly and it's better for crowds. I didn't learn this until relatively recently, but you literally just put it in.
 
-Today we are setting up your "pantry": a Google Form that catches your thoughts as raw material and puts them somewhere you can find them later. One tap. Three fields. From anywhere.
+**But first:** we need to instantiate your kitchen, then stock it with raw ingredients, and learn a couple of key tools before we can cook. This is your space. No one else sees it. Everything from here forward builds on what you put in, so the goal this week is just to get up and running.
+
+Today we are setting up your "pantry": a Google Form that catches your thoughts as raw material and puts them somewhere you can find them later. One tap. One field. From anywhere.
 
 Pick your level and scroll down.
 
@@ -56,7 +58,9 @@ Pick your level and scroll down.
 
 ### Toe
 
-Start here if you want the fastest path to something working. All you need is a Google account, which you almost certainly have.
+*Phone only. All you need is a Google account.*
+
+Start here if you want the fastest path to something working.
 
 **One thing to check first**
 
@@ -82,23 +86,20 @@ The form opens. Tap the title in the upper left (it says "Copy of Amy Karlson's 
 
 **Step 2: Look at the form**
 
-The form is in edit mode. Mostly you'll use it in entry mode, not here. But take a look at what you have.
+The form opens in *edit mode*, which is not very usable on a phone. Nevertheless, you can edit the form fields here before finalizing them. After this, day to day, you will view and use it as a standard entry form (by Step 3).
 
-Three fields, one required:
+Two fields. One required:
 
-- **What?** The only required field. What you want to capture.
-- **Hashtag? Category?** Pick one: To Do, Work, Thought, or Remember / Revisit / Refine.
-- **Momentum?** A link, a name, anything that'll help you follow up.
+- **What?** The only one that matters: what you want to capture. Anything.
+- **Tag?** Check any that fit: To Do | Goal | Idea | Reminder | Resource. Skip it when you're not sure or in a hurry.
 
-These are my defaults. If you want different ones, this is where you change them. Make changes if you're feeling adventurous.
-
-You've just built a cauldron. Or a carpet bag. Or a magic lamp. Or a forge. Pick whatever metaphor resonates. It's exactly why this tool is for everyone.
+This is your pantry entry point.
 
 ---
 
 **Step 3: Add it to your home screen**
 
-Click the link button (🔗) at the top of the screen, two icons to the right of the painter's palette. If you see a message that the form is unpublished, tap Publish. Don't let the word worry you. It just means the form is accessible via link. Your responses still go only to your sheet, not to anyone else.
+Tap the link button (🔗) at the top of the screen, two icons to the right of the painter's palette. If you see a message that the form is unpublished, tap Publish. Don't let the word worry you. It just means that the form is accessible via a URL. Your responses still go only to your sheet, not to anyone else.
 
 To open your form, you have two options:
 
@@ -129,60 +130,63 @@ For now, use this as a scratchpad, a place to put untethered thoughts from a to-
 
 **Step 5: See what's iN** *(Optional)*
 
-Tap Submit another response, then tap the edit icon (pencil) at the lower right. That takes you back to your form in edit mode. If you don't see the pencil, make sure your browser is signed into the same account you used to create the form.
+Tap **Submit another response**, then scroll to the bottom. A ✏️ labeled **Edit** (or **Request edit access**) floats on top of the form. Tap it to enter edit mode. If you see **Request edit access**, your browser is signed into the wrong account.
 
 Tap Responses at the top. You'll see a number next to it. Those are your entries. Tap it to see a summary of what you've captured.
 
 In that same view, tap the green square Sheets icon towards the upper right. Select Create a new spreadsheet, then tap Create. A notification at the bottom says "Spreadsheet linked." Tap Open and there are your entries.
 
-You may be asked if you'd like to edit it within the Sheets app. You don't need it yet. Tap No Thanks. It's enough to know your data is there, in a spreadsheet you own.
+You may be asked if you'd like to edit it within the Sheets app. You don't need it for now. Tap No Thanks. If you want to edit the sheet on your phone later, you can install the app then. For now it's enough to know your data is there, in your own Google ecosystem.
 
 ---
 
 **That's it**
 
-iN is a habit, not a product, and what you built today is the on-ramp. That form is yours now. The next post covers what to do when you have 50 things in there. You'll have something to bring.
+iN is an act, not a product. What you built today is the on-ramp. The next post covers what to do when you have your first 5 or 50 things in. And because you'll know exactly what's in there, you'll know what you want to get out of it.
 
-Put something iN before you do one more thing.
+Now, go put something iN.
 
 ---
 
 ### Foot
 
-The Foot path builds the same thing from scratch, 2026 style. You write the spec. Gemini does the labor. Think of it as your sous-chef.
+*This step requires a laptop or PC and Google One AI Premium ($20/month).*
 
-*This step requires a laptop or PC.*
+The Foot path builds the same thing "from scratch", 2026 style: you write the specification, and the AI (Gemini, in this case) builds it on your behalf. Like a sous-chef (okay, I'll stop now).
 
-Install Google Sheets and Google Drive on your iPhone first (both are free in the App Store). Do it before you sit down at your computer.
+Install Google Sheets and Google Drive on your phone first, both free in the App Store.
 
-Before opening anything else, decide on your tags: four to six words for things you actually track. Work. Home. Ideas. To Do. Buy. Write them down.
+Your tags are the first decision. The defaults are: To Do, Goal, Idea, Reminder, Resource. Swap any for words that fit your life better.
 
-Open Gemini (gemini.google.com). Paste this with your tags filled in:
+Go to forms.google.com and click + to create a new form. If you're signed into your Google One AI Premium account, a Gemini panel opens. It greets you with "Let's start creating" and shows example prompts. Paste this into the text field at the bottom:
 
-> Create a Google Form with these exact fields:
-> 1. Required long text, label: "What's on your mind?"
-> 2. Multiple choice, label: "Tags?", options: [your tags here], description: "A word or two to help you find this later"
-> 3. Optional long text, label: "Context?", description: "A link, a name, anything that'll help you follow up"
+> Create a Google Form with:
+> Title: "iN Form"
+> Subtitle: "Capture any to do, thought, link, ..."
+> 1. Required long text, label: "What?"
+> 2. Checkboxes, label: "Tag?", options: To Do, Goal, Idea, Reminder, Resource
 
-The output is a spec. Build it in Forms field by field and check that it matches what you specified.
+Those are the defaults. Swap in your own tags before hitting Create.
 
-Publish, add to your home screen, connect the Sheet. Same steps as Toe. When the Sheets app prompt appears, tap Yes this time.
+Click Create. Voilà. Review what it made, then follow Steps 3-5 in Toe above. It's the same flow from this point, with one difference: when the Sheets app prompt appears, tap Yes.
 
 ---
 
 ### ShiN
 
-*Laptop or PC. Requires Google One AI Premium ($20/month).*
+*This step requires a laptop or PC and Google One AI Premium ($20/month).*
 
-Before building anything, open Gemini and enable the Gmail extension. Paste this:
+The ShiN path builds the same thing as Foot, with one addition: instead of deciding your tags, you let your Gmail decide them.
 
-> Look at my recent Gmail inbox. Based only on what you can see there, suggest 8 to 10 tags I might use for a personal capture system. Do not invent. Do not assume. Only what the data shows.
+Open Gmail, signed into your Google One AI Premium account. Click "Ask Gmail" in the search bar at the top. Paste this:
 
-Read the output and keep what fits. Cut what doesn't. Edit what's close.
+> Review my recent inbox history and skip generic category tags (like 'todo', 'work', or 'links'). Instead, analyze my active email threads to distill 4-6 high-level, mutually exclusive 'Roles' or 'Project Boundaries' that I am currently managing. Give each as a short 2-word hashtag (e.g. #AI-Research, #Client-Work) plus a one-sentence description of what falls within it.
 
-Most people guess at their tags. You sourced yours from your actual life. Build on it.
+Use any of the hashtags it returns, or variations on them, to replace or add to the default tags before building your form. You can adjust the prompt too. It's your playground.
 
-That's your tag list. Now follow the Toe steps.
+This is your first personalization step drawn directly from your own workspace.
+
+From here, follow the Foot steps above starting from "Go to forms.google.com."
 
 ---
 
@@ -190,7 +194,7 @@ That's your tag list. Now follow the Toe steps.
 
 - Toe: Setting up a mobile web app shortcut from a URL
 - Foot: Building a form from a text spec
-- ShiN: Sourcing decisions from your own data
+- ShiN: Extracting real signal from your own data
 
 **Picked up along the way**
 
