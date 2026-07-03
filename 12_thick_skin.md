@@ -38,9 +38,6 @@ The differentiator: most tools pick one lane. This one scales its involvement to
 
 Light, warm, playfully protective. Irreverent but never punitive. Never therapy-voice. Never saccharine. Competent, clear, slightly funny, emotionally grounded.
 
-*Internal reference tone (not for pitch):*
-> "Fucktard wrote you 3 times while you were in yoga. Man what a douche. Anyhow, I got you. He's really just interested in coordinating the kid drop off. Wanna read it or shall we just get straight to the neutral response. The high road is my road!"
-
 The humor is structural, not cosmetic. It creates distance. Distance creates choice. Choice is the product.
 
 ---
