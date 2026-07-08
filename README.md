@@ -6,9 +6,9 @@
 
 ## What this is
 
-**iN** is a reflective AI practice built around one act: put something in before you decide what it means. The system holds it. Later — when you want to know what you've been thinking about, what keeps coming back, what your open loops are — you ask. The answer comes from what you put iN.
+**iN** is a sandbox: put something in before you decide what it means. No practice to keep up, no habit you owe it. The system holds what you put in. Later — when you want to know what you've been thinking about, what keeps coming back, what your open loops are — you ask. The answer comes from what you put iN.
 
-**begiN** is the community layer: the space where people learn to use iN with increasing skill and confidence. Together they address a specific gap: half of U.S. adults now use AI chatbots (Pew, June 2026), most as a search bar or word processor. The distance between having access and knowing what to bring to it is not an access problem. It's a legibility problem.
+**begiN** is the community layer: the space where people learn to use iN by watching other people use it. Together they address a specific gap: half of U.S. adults now use AI chatbots (Pew, June 2026), most as a search bar or word processor. The distance between having access and knowing what to bring to it is not an access problem. It's a legibility problem. Most people won't stay long, by design — see `01_vision.md` §2.5.
 
 This repo is the public portfolio: vision, brand, working methodology, and the first operational lenses.
 
@@ -40,6 +40,8 @@ Questions worth trying:
 | `11_host_meter.md` | Host Meter: three-axis credibility instrument for creators. 14 figures scored. Work in progress. | The case study |
 | `12_thick_skin.md` | Thick Skin: emotionally intelligent communication membrane. Full concept, 9-metric relational framework, AITA entry point, text entry lineage. Parked, not abandoned. | The origin |
 | `13_chi2027_outline.md` | CHI 2027 working paper outline: LLM literacy framework, PhyDigit connection, 18 research questions, formative study design. | The academic argument |
+| `15_out_instantiations.md` | Why OUT is a sandbox, not the product: four live screenshots of the same capture data through four different views, built cheaply and on demand. | Answers "what does it output" |
+| `16_onramp_course.md` | The 5-week on-ramp curriculum (Sandbox → Refinement → View → Engine → Lens), written in reply to real portfolio feedback. Graduated pricing, no AI in week 1. | Answers "what do people actually do" |
 | `signal-lens-v1.md` | The Signal Lens prompt itself. 12-field digest, submittable to any AI engine | Run it |
 | `02_brand.md` | Visual and verbal identity: colors, type, tone rules, writing rules | Reference |
 | `04_substack.md` | Words live at beginin.substack.com: About page, first post | Current publication |

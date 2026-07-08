@@ -1,14 +1,16 @@
 ﻿# iN / begiN: Foundation Synthesis
 
-**Amy K. Karlson · June 2026**
+**Amy K. Karlson · June 2026, revised July 2026**
 
 ---
 
 ## 1\. What This Is
 
-iN is a reflective AI practice built around intentional capture, user-owned context, and self-legibility through AI.
+iN is a sandbox for AI literacy: a place to put things in first, before you know what you'll ask of them, so the questions worth asking of AI show up on their own instead of staring back at you from a blank box.
 
-begiN is the community layer: the plaza, not the church.
+Not a practice. Not a habit you're supposed to keep. A piggy bank with a lock: you fill it because filling it costs nothing, and once something you actually care about is in there, wanting it back out teaches you everything else.
+
+begiN is the community layer: the plaza, not the church. Where you watch other people ask, and learn from what works. Come for one thing, leave with many.
 
 Smith-Karlson LLC is the parent entity.
 
@@ -18,15 +20,21 @@ These are not separate products. They are one system: the tool (iN) and the spac
 
 ## 2\. The Core Thesis
 
-**The tool's power scales with the user's literacy.**
+**People don't have burning questions to ask of the internet, so they opt out.**
 
-The blank box isn't the problem. The on-ramp is missing.
+The blank box isn't inspiring or inviting. If someone doesn't need help with wordsmithing and doesn't feel drawn to "converse" about the internet, they conclude AI isn't for them, and they're not wrong, because that's how it presents.
 
-700 million people use AI. Most use it as a search bar. Not because they can't do more. Nobody showed them what to bring to it. Generic iN Generic out. Every time. Regardless of what the tool is actually capable of.
+The fix is not teaching people to use the blank box directly, although that ends up being the outcome. The fix is giving them a sandbox first: something they fill themselves, the minimum viable thing they'll actually return to, whatever that turns out to be for them. Once something they care about is in there, the question of how to get it back out teaches itself. The writer's-block-in-front-of-a-blank-box problem disappears once you know what's inside and what you want to ask of it.
 
-iN gives people something to bring. begiN teaches them how.
+**iN gives people something to bring. begiN teaches them how.**
+
+Capturing is the trojan horse: a practically useful tool that builds AI literacy as a byproduct. Like meditation, the benefit outlasts the easiest read of it once the flywheel gets going. The skill being built isn't prompting. It's having something worth asking, a mental model for what the tool can do, and the willingness to iterate. Bring the intention, drive the direction: that's using a tool with intent, in the opposite order most onboarding assumes. Seed the sandbox first. The questions emerge from what's inside it, not before.
+
+**700 million people use AI. Most use it as a search bar.** Not because they can't do more. Nobody showed them what to bring to it. Generic iN, generic out, every time, regardless of what the tool is actually capable of.
 
 **The summary is always some kind of lie.** AI is mediating almost all digital interactions now. Every helpful interface makes decisions for the user and calls it power. iN is the counter-move: raw inputs, owned by the user, retrievable on demand, questioned with real intent.
+
+*Source: this section is a distillation of a real field test — Merrie Morris read an earlier version of this portfolio and read it as "ingest personal data into AI and value emerges," which is close to the opposite of the thesis. Amy's reply is the sharper version of this argument. Full exchange: `claude_convos/merrie_morris_feedback_exchange.md`.*
 
 ---
 
@@ -51,27 +59,27 @@ This is why begiN subgroups are organized around shared c's, not AI skill levels
 
 ---
 
-## 2.5 The Movement Framing
+## 2.5 The Sandbox, Not the Movement
 
-iN started as a product story. It became a movement story. The distinction matters for how it's pitched, built, and grown.
+*Revised July 2026. "Practice" and "movement" were May 2026 framing — both implied an ongoing thing you're supposed to keep doing or keep belonging to. Neither is true, and neither is the point. Superseded, not deleted: see below for what's kept.*
 
 **The problem is cognitive, not technical.**
-The digital divide is no longer about access. Everyone has a phone. Most people have a Google account. The divide now runs along lines of education, tech-savviness, age, and confidence. The people left behind aren't locked out of the tool. They're locked out of the question. Nobody showed them what to bring to the blank box.
+The digital divide is no longer about access. Everyone has a phone. Most people have a Google account. The divide now runs along lines of education, tech-savviness, age, and confidence. The people left behind aren't locked out of the tool. They're locked out of the question. Nobody showed them what to bring to the blank box. This part holds up unchanged.
 
-**The mission (locked May 2026):**
+**The mission (locked May 2026, framing revised July 2026):**
 Teach ordinary people the first act of AI fluency: put something in before you ask. Not built for founders optimizing for scale. For the person who is afraid of the blank box. For the person who has five apps and can't find anything. For the person who uses AI as a search bar because that's all anyone ever showed them.
 
-**Movement, not product:**
-A product has features. A movement has a side to be on. begiN is the community that closes the cognitive divide, one begiNner at a time. The Substack is the movement's first public home: utility posts, AI literacy, Amy's voice, humor as the relief valve. iN is the platform behind it. begiN is what you join.
+**A sandbox, not a subscription to belong to:**
+A movement asks you to pick a side and stay on it. A sandbox asks you to come in, build something, and leave when you're done — that's success, not churn. begiN is the room where that building happens in view of other people, which is where the actual literacy transfers (watching someone else ask a good question teaches you more than being told how). iN is the tool. begiN is where you learn to use it by watching it get used. Nobody has to join anything permanent to get the thing they came for.
 
 **The sister story (anchor example):**
-Amy's sister is a sophisticated AI user: in Claude Projects, Google Drive, six apps. Still can't find her bedroom renovation photos. "Bits everywhere." Even savvy people get trapped in local minima. The bottom of the pyramid is bigger and less served. The movement isn't only for people who are afraid. It's for anyone stuck in their own version of "bits everywhere."
+Amy's sister is a sophisticated AI user: in Claude Projects, Google Drive, six apps. Still can't find her bedroom renovation photos. "Bits everywhere." Even savvy people get trapped in local minima. The bottom of the pyramid is bigger and less served. This isn't only for people who are afraid. It's for anyone stuck in their own version of "bits everywhere."
 
 **Why now:**
-700 million people use AI. Most use it as a search bar or a word processor. The window to establish literacy norms is open now: before the patterns calcify, before "this is just how it works" becomes the accepted story. begiN exists to interrupt that calcification.
+700 million people use AI. Most use it as a search bar or a word processor. The window to establish literacy norms is open now: before the patterns calcify, before "this is just how it works" becomes the accepted story.
 
-**The cultural shift:**
-The goal is not just adoption. It is cultural change. When people learn to use AI as a tool they control, they stop fearing it as a kneejerk cultural phenomenon. They use words of empowerment, not fear. The movement produces people who treat AI as a lever, not a threat. Literacy is the mechanism. begiN is the structure that makes literacy possible for people who have been told this is not for them.
+**Not a business in a formal sense:**
+If people disappear at the end of four weeks, or four posts, or four anything, that's not a failure to be engineered against. That's the design working. This isn't an attention economy grab, and it isn't measured like one. Learn something, tell a friend, go live your life. The forge/makerspace metaphor (§8) already said this: you make what you need and you leave with it. The word "movement" quietly asked people to stay members. The forge never did.
 
 ---
 
@@ -83,7 +91,7 @@ So she became test subject one. Submitted her own data, with her own question, t
 
 Three pivots that shaped the direction:
 
-- TLC said no to an AI subgroup → iN is the plaza TLC can't be  
+- An existing community said no to an AI subgroup → iN is the plaza that community couldn't be  
 - A potential partner said no to the product vision → Amy kept her IP  
 - A skeptic said "I'm not convinced people will rally behind this" → Amy invented begiNner on the spot
 
@@ -105,24 +113,32 @@ A VP. A grandmother. A developer. Someone who's been told this isn't for them. S
 
 ---
 
-## 5\. The iN Arc: Stages of iNsight
+## 5\. The iN Arc: A Skill Ladder
 
-The user journey is not a funnel. It's a practice that deepens over time.
+*Revised July 2026. The original version of this section read as stages of enlightenment — Notice, Connect, Reflect, Inspire — which implies personal growth is the goal everyone is working toward. It isn't. This is a tool for getting sophisticated with AI, not a tool for getting sophisticated with yourself. Self-awareness is a real, common side effect for people who are already geeks about personal reflection. It is not the design goal, and nothing here requires it or measures you against it.*
 
-1. **Notice**: Something registered. Pre-verbal. Before it dissolves.  
-2. **iN**: One tap. The iNstant act. No destination required. *"Is it iN?"*  
-3. **Return**: Safe. Inviting. Exciting. The system meets you. No overwhelm.  
-4. **Author**: You stop archiving. You start noticing differently. Inputs get more intentional.  
-5. **Connect**: You see the thread between things.  
-6. **Reflect**: Slower, deeper, chosen.  
-7. **Share**: Optional. Never required.  
-8. **Inspire**: Someone else sees themselves in what you shared. The flywheel starts.
+This ladder mirrors the LLM literacy progression already specified for the CHI 2027 study (`IN_CHI2027_outline.md` §3.4), grounded in Dreyfus & Dreyfus skill-acquisition theory and Kolb's learning cycle — restated here in plain language.
 
-**Key iNsight:** You don't commit to the whole arc. You just show up for today.
+1. **Vote**: Capture. Say yes. A binary act, nothing more required. *"Is it iN?"* No destination, no category.
+2. **View**: Look at what you captured. No query skill required yet. Just: oh, that's actually there.
+3. **Tweak**: Change a prompt, watch the output change. The feedback loop between input and output becomes visible for the first time.
+4. **Expand**: Bring a new kind of data in — a photo, an export, a thread. New questions become askable that weren't before.
+5. **Formulate**: A composed query — your data, your context, your question, a framework, a format. Genuinely personal, unrepeatable output. This is the actual skill being taught.
+6. **Extend**: Build something that acts on your behalf. Past the course, past begiN, yours to keep.
 
-**Key iNsight on Return (Step 4):** You cannot make anyone go back. Ever. That's every abandoned system in history. The only sustainable design is one where return creates enough delight that people *choose* to. The incremental keyword search view is step one of making return feel safe rather than overwhelming.
+**Key iNsight:** Nobody commits to the whole ladder up front. Most people climb two or three rungs and stop, on purpose, with something real in hand. That's graduation (§2.5), not failure.
 
-**Key iNsight on OUT:** Abandonment isn't only friction on the way IN: it's also avoidance on the way OUT. People don't go back because going back means confronting something. OUT needs its own design philosophy. **\[OPEN: pin a dedicated OUT design session\]**
+**Key iNsight on Return:** You cannot make anyone go back. Ever. That's every abandoned system in history. There are exactly two levers that make it happen anyway, and design only controls one of them.
+
+**The pull.** You can build for delight — the incremental keyword search view, a good digest, something that makes someone want to open it again. That's real design work, worth doing, and it's step one of making return feel safe rather than overwhelming. It's also a guess. You're betting that what you built lands for this specific person on this specific day. Sometimes it won't.
+
+**The drive.** The other lever belongs entirely to the user, and it's keyed to something specific: how true and specific what they've already put in actually is — the *a* in §2.2's D = a·b + c. Truer captures produce more interesting, more useful reflections back. That makes the next capture worth more care, which makes the next reflection better, and so on. This is the Vortex already named in `IN_research.md` ("fastest path into the feedback spiral") — self-reinforcing once it starts, which means it doesn't depend on design guessing right. It also doesn't start for everyone, and it shouldn't be pitched like it will.
+
+**A number, not a slogan.** This is probably a minority — something like 30% of people, not most. The majority plateau around a human scale, 50 entries or so, and stop there. That's a complete use of the tool, not an unfinished one (§2.5). At the other end, someone close to 500 entries is unambiguously inside the spiral — and even there, the actual sophistication in use is a small number of well-made views (four, in the live example in `15_out_instantiations.md`), not an ever-growing pile of features. Being deep in doesn't look complicated. It looks like a lot of true material and a few good ways to look at it. That's also the likely mechanism behind anyone who climbs the whole ladder above and ends up running a stall of their own (§7).
+
+Design can create enough delight that people choose to come back — that's the pull, and it's still worth building. Or design can get out of the way and let truth do the pulling from the inside. Both are real. Only one of them is something you can engineer on purpose.
+
+**Key iNsight on OUT (revised July 2026, corrected):** There are two different kinds of not-coming-back. The first was misdiagnosed here in May as avoidance (returning means confronting something). That's real but minor, much less likely than the actual main driver: plain inertia. Not doing something is always structurally easier than doing it. A system that just sits there doesn't pull anyone back on its own. Overcoming that default takes one of two things — an external pull (the system reaches out, invites, offers something worth the click) or an internal one (the user's own iNtention, no prompting needed). Same logic as PhyDigit's Cost(engaging) vs. Cost(refraining) model (`IN_CHI2027_outline.md` §2.2), applied here to return instead of entry. The second kind is graduation: someone got what they needed in five entries or five weeks, and leaving is the whole point, not a failure of retention. Design should keep lowering the cost of the pull. It should stop trying to prevent graduation. See `15_out_instantiations.md` for the fuller argument (OUT as a cheap, disposable layer over the durable data) and §2.5 above (the sandbox framing this resolves into).
 
 **"iN the iNstant":** iN is the thing you do iN the iNstant. Capture without friction. Gets it out of short-term memory. No tagging scheme. No taxonomy. No hierarchy to maintain. If you abandon it for a month, you pick up without guilt. No more system graveyards.
 
@@ -145,10 +161,10 @@ The user journey is not a funnel. It's a practice that deepens over time.
 - Subgroups by interest and lens: each subgroup organized around a shared c (a framework the members already care about), not around AI skill level
 - No calendar commitment to join: just show up  
 - No personal data shared: only prompts and iNsights  
-- TLC-adjacent. No assholes. Safe by design.  
+- No assholes. Safe by design.  
 - A castle is safe because of its moat and its walls. The price of entry is the price of intention.
 - **Three-layer ownership:** Amy owns the method. The subgroup steward owns the framework. The member owns their data.
-- **Pricing:** $30–50/month (TBD). Community is the business. Course is optional depth.
+- **Pricing (revised July 2026, graduated model — supersedes the flat $30–50/month TBD):** $60 month one, $30 month two, $15/month steady state after that. Designed so leaving costs nothing and staying costs less over time — front-loads the price for people who want a short, intense on-ramp and get out, tapers to something light for people who stick around. Not a retention trap: nobody gets penalized for passing through, and nobody who stays gets bled. See `16_onramp_course.md` for the 5-week curriculum this pricing wraps around.
 
 ---
 
@@ -163,6 +179,16 @@ The user journey is not a funnel. It's a practice that deepens over time.
 A plaza. Not a church. Not an open field.
 
 **This is why begiN must never become a church.** And why an open platform alone is never enough.
+
+**Come for one thing, leave with many.** *(Added July 2026 — extends §2.5's graduation framing with what the plaza metaphor was already carrying.)* A plaza doesn't ask everyone who walks through it to want the same thing, or to want it at the same depth. Three honest modes, not a funnel between them:
+
+- **The transaction.** You came for the cucumber. You got the cucumber. You leave. This is a complete, successful visit — not a missed upsell. This is the $60-and-done version of the pricing model in §6, and it's the sandbox/graduation thesis in §2.5 in its simplest form.
+- **The browse.** You came for the cucumber, but the stall next to it caught your eye, and the one past that. You linger, you buy a few things you didn't plan on, you come back next week to see what's new. This is the tapering $30 → $15/month version: price drops as staying becomes its own reward rather than something to be talked into.
+- **The stall.** Someone who used to just browse starts running a table of their own — the domain they went deep on becomes the thing other people come to them for. This is already in the doc, just not named this way: it's the subgroup steward role in §6 ("the subgroup steward owns the framework"). The plaza framing makes the on-ramp for *becoming* one legible: browser → regular → someone who sets up a stall, not a separate track you have to apply for.
+
+**Naming note:** "vendor," "artisan," "domain expert," "shepherd" are all live candidates for what to call this third mode in public-facing copy, tried out in conversation, not decided. "Subgroup steward" is the locked internal term for now (§6). Worth a real naming pass before this hits anything public-facing — flagging rather than picking one.
+
+**What this buys the pitch:** "a place that satisfies different needs on different days" is a more honest description of begiN than either "sticky community" or "one-and-done course." Nobody has to commit up front to which of the three they're going to be. Most people won't know until they're already in the plaza.
 
 ---
 
@@ -190,7 +216,7 @@ Never buy another vertical tracker app again. Your fitness data. Your financial 
 **iN is a verb, not a noun. Human being is a verb. So is iN.**
 
 **Name system (May 2026):**
-- **iN**: the tool, the practice, the act. No period.
+- **iN**: the tool, the sandbox, the act. No period.
 - **begiN**: the community layer. No period.
 - **begiNners**: the member noun.
 - Italic N = display treatment (wordmark, headlines, deck). In prose, capital N alone carries it.
@@ -209,7 +235,7 @@ Full palette (May 2026):
 - `#EF9300`: orange (begiN community accent: warmth, invitation)
 - `#f5f4ee`: warm white (body text)
 
-**Two-accent rule:** `#d4ff59` citrus-hi = iN (the tool, the act, the practice). `#EF9300` orange = begiN (the community, the movement, the invitation). When in doubt: the tool is electric; the community is warm.
+**Two-accent rule:** `#d4ff59` citrus-hi = iN (the tool, the act, the sandbox). `#EF9300` orange = begiN (the community, the room, the invitation). When in doubt: the tool is electric; the community is warm.
 
 **Brand line:** `capture. learn. begin.`
 
@@ -317,11 +343,18 @@ Lines worth keeping. Each one is also a proof-of-concept for what iN does: catch
 
 - *"The pull prompt asks the user to manufacture interest on demand. Real dialog needs a driver: someone who arrives caring enough to drive, direct, and craft the exchange."* Why AI-generated discovery prompts don't work. The energy has to come from the user's side. iN builds the substrate so it's already there.
 
+- *"A piggy bank with a lock."* What the sandbox is, in one image. You fill it because filling it costs nothing. Once something you care about is inside, wanting it back out teaches you the rest.
+
+- *"Bring a question, bring some material, see what comes back, iterate."* The generalizable method, in full, four steps. Not prompt engineering. Not a specification of the whole possibility space. A repeatable move.
+
+- *"If people disappear at the end of four weeks, or four posts, or four anything: I don't care."* From the Merrie Morris exchange, July 2026. Why this isn't an attention-economy business. Full exchange: `claude_convos/merrie_morris_feedback_exchange.md`.
+
 ---
 
 ## 14\. Open Action Items
 
-- [ ] OUT design session: dedicated conversation on why people don't return and how to design for it  
+- [x] OUT design session ✓ resolved July 2026: two kinds of not-returning (avoidance vs. graduation), see §5. Related but distinct: `15_out_instantiations.md` on OUT as output-instantiation.
+- [ ] **New (July 2026):** finalize the ~250-400 price-point / call-cadence sketch for the course (weekly lesson calls + office hours, possibly mapped to the first 4 Substack posts) — not yet decided, graduated monthly pricing above is separate and locked, this is additive structure on top of it
 - [ ] Lens color palette: full system for subgroup differentiation within citrus/black brand  
 - [x] Slides 03–08: rebuild in Playfair/DM Mono/citrus visual language ✓ done  
 - [x] Full deck assembly: `resources/in-deck/Latest/IN_begIN_full_deck.html` ✓ done  
