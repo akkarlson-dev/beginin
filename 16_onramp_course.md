@@ -26,13 +26,13 @@ Google Sheets as a personal database, with views that can be raw (just the sprea
 
 ## What People Trade and What They Keep
 
-By the end of the on-ramp, they've traded almost nothing in privacy for a skill they can generalize to their own lives, automate things, and play with to their heart's content. A new hobby in itself, perhaps. No week requires sensitive data (financial records, health data) to work — five items in a spreadsheet carries a different privacy weight than a bank statement, and the course doesn't need the second kind to teach the skill.
+By the end of the on-ramp, they've traded almost nothing in privacy for a skill they can generalize to their own lives, automate things, and play with to their heart's content. A new hobby in itself, perhaps. No week requires sensitive data (financial records, health data) to work. Five items in a spreadsheet carries a different privacy weight than a bank statement, and the course doesn't need the second kind to teach the skill.
 
 No one exits with a finished product. They exit with a method: bring a question, bring some material, see what comes back, iterate. And with a working example of it, built on their own data, in their own words.
 
 ## Pricing and Cadence
 
-Wraps the graduated model in `01_vision.md` §6: $60 month one, $30 month two, $15/month steady state. Weekly live call plus office hours during the 5 weeks (mirrors the community's existing live-session cadence, §6 of `01_vision.md`). Whether a second cohort of "material" gets added past week 5, or the steady state is closer to "find an interest, dig in for a bit, then leave," is genuinely open — see the still-undecided price-point/call-cadence sketch flagged in `01_vision.md` §14. Both outcomes are fine. That's not a hedge, it's the actual design position: some people stay, most pass through, same as any real space.
+Wraps the graduated model in `01_vision.md` §6: $60 month one, $30 month two, $15/month steady state. Weekly live call plus office hours during the 5 weeks (mirrors the community's existing live-session cadence, §6 of `01_vision.md`). Whether a second cohort of "material" gets added past week 5, or the steady state is closer to "find an interest, dig in for a bit, then leave," is genuinely open. See the still-undecided price-point/call-cadence sketch flagged in `01_vision.md` §14. Both outcomes are fine. That's not a hedge, it's the actual design position: some people stay, most pass through, same as any real space.
 
 ---
 

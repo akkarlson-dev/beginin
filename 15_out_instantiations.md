@@ -23,19 +23,19 @@ So when I say OUT can be anything, I mean it as a structural claim, not a hand w
 
 Four screenshots below, one Google Sheet of 450+ captures behind all of them, four different OUTs, none planned as a set. Each exists because a specific question came up and got answered by writing a new view against the same underlying data, not by re-architecting anything under it.
 
-**Calendar** — a 5-week grid, one cell per day, darker cells mean more captures that day, tap a day to see what landed. Built because Pulse's hour-of-day chart was interesting once and then static; a real calendar of dates stays useful week over week.
+**Calendar**: a 5-week grid, one cell per day, darker cells mean more captures that day, tap a day to see what landed. Built because Pulse's hour-of-day chart was interesting once and then static; a real calendar of dates stays useful week over week.
 
 ![Calendar view](out_calendar.jpeg)
 
-**Landed — Everything** — the raw feed, newest first, every capture regardless of type.
+**Landed, Everything**: the raw feed, newest first, every capture regardless of type.
 
 ![Landed, Everything tab](out_landed_everything.jpeg)
 
-**Landed — To Do** — the same feed filtered to actionable items, with a "show done" toggle so closed loops don't disappear, they just gray out.
+**Landed, To Do**: the same feed filtered to actionable items, with a "show done" toggle so closed loops don't disappear, they just gray out.
 
 ![Landed, To Do tab](out_landed_todo.jpeg)
 
-**Search** — free-text query across the whole capture history, gated by an inline prefix so it isn't just sitting open on a home screen.
+**Search**: free-text query across the whole capture history, gated by an inline prefix so it isn't just sitting open on a home screen.
 
 ![Search view, "asdf ben"](out_search.jpeg)
 

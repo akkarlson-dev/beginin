@@ -34,7 +34,7 @@ Capturing is the trojan horse: a practically useful tool that builds AI literacy
 
 **The summary is always some kind of lie.** AI is mediating almost all digital interactions now. Every helpful interface makes decisions for the user and calls it power. iN is the counter-move: raw inputs, owned by the user, retrievable on demand, questioned with real intent.
 
-*Source: this section is a distillation of a real field test — Merrie Morris read an earlier version of this portfolio and read it as "ingest personal data into AI and value emerges," which is close to the opposite of the thesis. Amy's reply is the sharper version of this argument. Full exchange: `claude_convos/merrie_morris_feedback_exchange.md`.*
+*Source: this section is a distillation of a real field test. Merrie Morris read an earlier version of this portfolio and read it as "ingest personal data into AI and value emerges," which is close to the opposite of the thesis. Amy's reply is the sharper version of this argument. Full exchange: `claude_convos/merrie_morris_feedback_exchange.md`.*
 
 ---
 
@@ -61,7 +61,7 @@ This is why begiN subgroups are organized around shared c's, not AI skill levels
 
 ## 2.5 The Sandbox, Not the Movement
 
-*Revised July 2026. "Practice" and "movement" were May 2026 framing — both implied an ongoing thing you're supposed to keep doing or keep belonging to. Neither is true, and neither is the point. Superseded, not deleted: see below for what's kept.*
+*Revised July 2026. "Practice" and "movement" were May 2026 framing: both implied an ongoing thing you're supposed to keep doing or keep belonging to. Neither is true, and neither is the point. Superseded, not deleted: see below for what's kept.*
 
 **The problem is cognitive, not technical.**
 The digital divide is no longer about access. Everyone has a phone. Most people have a Google account. The divide now runs along lines of education, tech-savviness, age, and confidence. The people left behind aren't locked out of the tool. They're locked out of the question. Nobody showed them what to bring to the blank box. This part holds up unchanged.
@@ -70,7 +70,7 @@ The digital divide is no longer about access. Everyone has a phone. Most people 
 Teach ordinary people the first act of AI fluency: put something in before you ask. Not built for founders optimizing for scale. For the person who is afraid of the blank box. For the person who has five apps and can't find anything. For the person who uses AI as a search bar because that's all anyone ever showed them.
 
 **A sandbox, not a subscription to belong to:**
-A movement asks you to pick a side and stay on it. A sandbox asks you to come in, build something, and leave when you're done — that's success, not churn. begiN is the room where that building happens in view of other people, which is where the actual literacy transfers (watching someone else ask a good question teaches you more than being told how). iN is the tool. begiN is where you learn to use it by watching it get used. Nobody has to join anything permanent to get the thing they came for.
+A movement asks you to pick a side and stay on it. A sandbox asks you to come in, build something, and leave when you're done. That's success, not churn. begiN is the room where that building happens in view of other people, which is where the actual literacy transfers (watching someone else ask a good question teaches you more than being told how). iN is the tool. begiN is where you learn to use it by watching it get used. Nobody has to join anything permanent to get the thing they came for.
 
 **The sister story (anchor example):**
 Amy's sister is a sophisticated AI user: in Claude Projects, Google Drive, six apps. Still can't find her bedroom renovation photos. "Bits everywhere." Even savvy people get trapped in local minima. The bottom of the pyramid is bigger and less served. This isn't only for people who are afraid. It's for anyone stuck in their own version of "bits everywhere."
@@ -115,30 +115,30 @@ A VP. A grandmother. A developer. Someone who's been told this isn't for them. S
 
 ## 5\. The iN Arc: A Skill Ladder
 
-*Revised July 2026. The original version of this section read as stages of enlightenment — Notice, Connect, Reflect, Inspire — which implies personal growth is the goal everyone is working toward. It isn't. This is a tool for getting sophisticated with AI, not a tool for getting sophisticated with yourself. Self-awareness is a real, common side effect for people who are already geeks about personal reflection. It is not the design goal, and nothing here requires it or measures you against it.*
+*Revised July 2026. The original version of this section read as stages of enlightenment: Notice, Connect, Reflect, Inspire, which implies personal growth is the goal everyone is working toward. It isn't. This is a tool for getting sophisticated with AI, not a tool for getting sophisticated with yourself. Self-awareness is a real, common side effect for people who are already geeks about personal reflection. It is not the design goal, and nothing here requires it or measures you against it.*
 
-This ladder mirrors the LLM literacy progression already specified for the CHI 2027 study (`IN_CHI2027_outline.md` §3.4), grounded in Dreyfus & Dreyfus skill-acquisition theory and Kolb's learning cycle — restated here in plain language.
+This ladder mirrors the LLM literacy progression already specified for the CHI 2027 study (`IN_CHI2027_outline.md` §3.4), grounded in Dreyfus & Dreyfus skill-acquisition theory and Kolb's learning cycle, restated here in plain language.
 
 1. **Vote**: Capture. Say yes. A binary act, nothing more required. *"Is it iN?"* No destination, no category.
 2. **View**: Look at what you captured. No query skill required yet. Just: oh, that's actually there.
 3. **Tweak**: Change a prompt, watch the output change. The feedback loop between input and output becomes visible for the first time.
-4. **Expand**: Bring a new kind of data in — a photo, an export, a thread. New questions become askable that weren't before.
-5. **Formulate**: A composed query — your data, your context, your question, a framework, a format. Genuinely personal, unrepeatable output. This is the actual skill being taught.
+4. **Expand**: Bring a new kind of data in, a photo, an export, a thread. New questions become askable that weren't before.
+5. **Formulate**: A composed query, your data, your context, your question, a framework, a format. Genuinely personal, unrepeatable output. This is the actual skill being taught.
 6. **Extend**: Build something that acts on your behalf. Past the course, past begiN, yours to keep.
 
 **Key iNsight:** Nobody commits to the whole ladder up front. Most people climb two or three rungs and stop, on purpose, with something real in hand. That's graduation (§2.5), not failure.
 
 **Key iNsight on Return:** You cannot make anyone go back. Ever. That's every abandoned system in history. There are exactly two levers that make it happen anyway, and design only controls one of them.
 
-**The pull.** You can build for delight — the incremental keyword search view, a good digest, something that makes someone want to open it again. That's real design work, worth doing, and it's step one of making return feel safe rather than overwhelming. It's also a guess. You're betting that what you built lands for this specific person on this specific day. Sometimes it won't.
+**The pull.** You can build for delight: the incremental keyword search view, a good digest, something that makes someone want to open it again. That's real design work, worth doing, and it's step one of making return feel safe rather than overwhelming. It's also a guess. You're betting that what you built lands for this specific person on this specific day. Sometimes it won't.
 
-**The drive.** The other lever belongs entirely to the user, and it's keyed to something specific: how true and specific what they've already put in actually is — the *a* in §2.2's D = a·b + c. Truer captures produce more interesting, more useful reflections back. That makes the next capture worth more care, which makes the next reflection better, and so on. This is the Vortex already named in `IN_research.md` ("fastest path into the feedback spiral") — self-reinforcing once it starts, which means it doesn't depend on design guessing right. It also doesn't start for everyone, and it shouldn't be pitched like it will.
+**The drive.** The other lever belongs entirely to the user, and it's keyed to something specific: how true and specific what they've already put in actually is, the *a* in §2.2's D = a·b + c. Truer captures produce more interesting, more useful reflections back. That makes the next capture worth more care, which makes the next reflection better, and so on. This is the Vortex already named in `IN_research.md` ("fastest path into the feedback spiral"), self-reinforcing once it starts, which means it doesn't depend on design guessing right. It also doesn't start for everyone, and it shouldn't be pitched like it will.
 
-**A number, not a slogan.** This is probably a minority — something like 30% of people, not most. The majority plateau around a human scale, 50 entries or so, and stop there. That's a complete use of the tool, not an unfinished one (§2.5). At the other end, someone close to 500 entries is unambiguously inside the spiral — and even there, the actual sophistication in use is a small number of well-made views (four, in the live example in `15_out_instantiations.md`), not an ever-growing pile of features. Being deep in doesn't look complicated. It looks like a lot of true material and a few good ways to look at it. That's also the likely mechanism behind anyone who climbs the whole ladder above and ends up running a stall of their own (§7).
+**The split.** This is probably a minority: something like 30% of people, not most. The majority plateau around a human scale, 50 entries or so, and stop there. That's a complete use of the tool, not an unfinished one (§2.5). At the other end, someone close to 500 entries is unambiguously inside the spiral, and even there, the actual sophistication in use is a small number of well-made views (four, in the live example in `15_out_instantiations.md`), not an ever-growing pile of features. Being deep in doesn't look complicated. It looks like a lot of true material and a few good ways to look at it. That's also the likely mechanism behind anyone who climbs the whole ladder above and ends up running a stall of their own (§7).
 
-Design can create enough delight that people choose to come back — that's the pull, and it's still worth building. Or design can get out of the way and let truth do the pulling from the inside. Both are real. Only one of them is something you can engineer on purpose.
+Design can create enough delight that people choose to come back. That's the pull, and it's still worth building. Or design can get out of the way and let truth do the pulling from the inside. Both are real. Only one of them is something you can engineer on purpose.
 
-**Key iNsight on OUT (revised July 2026, corrected):** There are two different kinds of not-coming-back. The first was misdiagnosed here in May as avoidance (returning means confronting something). That's real but minor, much less likely than the actual main driver: plain inertia. Not doing something is always structurally easier than doing it. A system that just sits there doesn't pull anyone back on its own. Overcoming that default takes one of two things — an external pull (the system reaches out, invites, offers something worth the click) or an internal one (the user's own iNtention, no prompting needed). Same logic as PhyDigit's Cost(engaging) vs. Cost(refraining) model (`IN_CHI2027_outline.md` §2.2), applied here to return instead of entry. The second kind is graduation: someone got what they needed in five entries or five weeks, and leaving is the whole point, not a failure of retention. Design should keep lowering the cost of the pull. It should stop trying to prevent graduation. See `15_out_instantiations.md` for the fuller argument (OUT as a cheap, disposable layer over the durable data) and §2.5 above (the sandbox framing this resolves into).
+**Key iNsight on OUT (revised July 2026, corrected):** There are two different kinds of not-coming-back. The first was misdiagnosed here in May as avoidance (returning means confronting something). That's real but minor, much less likely than the actual main driver: plain inertia. Not doing something is always structurally easier than doing it. A system that just sits there doesn't pull anyone back on its own. Overcoming that default takes one of two things: an external pull (the system reaches out, invites, offers something worth the click) or an internal one (the user's own iNtention, no prompting needed). Same logic as PhyDigit's Cost(engaging) vs. Cost(refraining) model (`IN_CHI2027_outline.md` §2.2), applied here to return instead of entry. The second kind is graduation: someone got what they needed in five entries or five weeks, and leaving is the whole point, not a failure of retention. Design should keep lowering the cost of the pull. It should stop trying to prevent graduation. See `15_out_instantiations.md` for the fuller argument (OUT as a cheap, disposable layer over the durable data) and §2.5 above (the sandbox framing this resolves into).
 
 **"iN the iNstant":** iN is the thing you do iN the iNstant. Capture without friction. Gets it out of short-term memory. No tagging scheme. No taxonomy. No hierarchy to maintain. If you abandon it for a month, you pick up without guilt. No more system graveyards.
 
@@ -164,7 +164,7 @@ Design can create enough delight that people choose to come back — that's the 
 - No assholes. Safe by design.  
 - A castle is safe because of its moat and its walls. The price of entry is the price of intention.
 - **Three-layer ownership:** Amy owns the method. The subgroup steward owns the framework. The member owns their data.
-- **Pricing (revised July 2026, graduated model — supersedes the flat $30–50/month TBD):** $60 month one, $30 month two, $15/month steady state after that. Designed so leaving costs nothing and staying costs less over time — front-loads the price for people who want a short, intense on-ramp and get out, tapers to something light for people who stick around. Not a retention trap: nobody gets penalized for passing through, and nobody who stays gets bled. See `16_onramp_course.md` for the 5-week curriculum this pricing wraps around.
+- **Pricing (revised July 2026, graduated model, supersedes the flat $30–50/month TBD):** $60 month one, $30 month two, $15/month steady state after that. Designed so leaving costs nothing and staying costs less over time: front-loads the price for people who want a short, intense on-ramp and get out, tapers to something light for people who stick around. Not a retention trap: nobody gets penalized for passing through, and nobody who stays gets bled. See `16_onramp_course.md` for the 5-week curriculum this pricing wraps around.
 
 ---
 
@@ -180,13 +180,13 @@ A plaza. Not a church. Not an open field.
 
 **This is why begiN must never become a church.** And why an open platform alone is never enough.
 
-**Come for one thing, leave with many.** *(Added July 2026 — extends §2.5's graduation framing with what the plaza metaphor was already carrying.)* A plaza doesn't ask everyone who walks through it to want the same thing, or to want it at the same depth. Three honest modes, not a funnel between them:
+**Come for one thing, leave with many.** *(Added July 2026. Extends §2.5's graduation framing with what the plaza metaphor was already carrying.)* A plaza doesn't ask everyone who walks through it to want the same thing, or to want it at the same depth. Three honest modes, not a funnel between them:
 
-- **The transaction.** You came for the cucumber. You got the cucumber. You leave. This is a complete, successful visit — not a missed upsell. This is the $60-and-done version of the pricing model in §6, and it's the sandbox/graduation thesis in §2.5 in its simplest form.
+- **The transaction.** You came for the cucumber. You got the cucumber. You leave. This is a complete, successful visit, not a missed upsell. This is the $60-and-done version of the pricing model in §6, and it's the sandbox/graduation thesis in §2.5 in its simplest form.
 - **The browse.** You came for the cucumber, but the stall next to it caught your eye, and the one past that. You linger, you buy a few things you didn't plan on, you come back next week to see what's new. This is the tapering $30 → $15/month version: price drops as staying becomes its own reward rather than something to be talked into.
-- **The stall.** Someone who used to just browse starts running a table of their own — the domain they went deep on becomes the thing other people come to them for. This is already in the doc, just not named this way: it's the subgroup steward role in §6 ("the subgroup steward owns the framework"). The plaza framing makes the on-ramp for *becoming* one legible: browser → regular → someone who sets up a stall, not a separate track you have to apply for.
+- **The stall.** Someone who used to just browse starts running a table of their own: the domain they went deep on becomes the thing other people come to them for. This is already in the doc, just not named this way: it's the subgroup steward role in §6 ("the subgroup steward owns the framework"). The plaza framing makes the on-ramp for *becoming* one legible: browser to regular to someone who sets up a stall, not a separate track you have to apply for.
 
-**Naming note:** "vendor," "artisan," "domain expert," "shepherd" are all live candidates for what to call this third mode in public-facing copy, tried out in conversation, not decided. "Subgroup steward" is the locked internal term for now (§6). Worth a real naming pass before this hits anything public-facing — flagging rather than picking one.
+**Naming note:** "vendor," "artisan," "domain expert," "shepherd" are all live candidates for what to call this third mode in public-facing copy, tried out in conversation, not decided. "Subgroup steward" is the locked internal term for now (§6). Worth a real naming pass before this hits anything public-facing. Flagging rather than picking one.
 
 **What this buys the pitch:** "a place that satisfies different needs on different days" is a more honest description of begiN than either "sticky community" or "one-and-done course." Nobody has to commit up front to which of the three they're going to be. Most people won't know until they're already in the plaza.
 
@@ -354,7 +354,7 @@ Lines worth keeping. Each one is also a proof-of-concept for what iN does: catch
 ## 14\. Open Action Items
 
 - [x] OUT design session ✓ resolved July 2026: two kinds of not-returning (avoidance vs. graduation), see §5. Related but distinct: `15_out_instantiations.md` on OUT as output-instantiation.
-- [ ] **New (July 2026):** finalize the ~250-400 price-point / call-cadence sketch for the course (weekly lesson calls + office hours, possibly mapped to the first 4 Substack posts) — not yet decided, graduated monthly pricing above is separate and locked, this is additive structure on top of it
+- [ ] **New (July 2026):** finalize the ~250-400 price-point / call-cadence sketch for the course (weekly lesson calls + office hours, possibly mapped to the first 4 Substack posts). Not yet decided, graduated monthly pricing above is separate and locked, this is additive structure on top of it
 - [ ] Lens color palette: full system for subgroup differentiation within citrus/black brand  
 - [x] Slides 03–08: rebuild in Playfair/DM Mono/citrus visual language ✓ done  
 - [x] Full deck assembly: `resources/in-deck/Latest/IN_begIN_full_deck.html` ✓ done  
