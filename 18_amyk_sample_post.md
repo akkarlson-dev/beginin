@@ -5,8 +5,6 @@
 
 # Why It Doesn't Feel Like ChatGPT Is the Most Powerful Tool Ever Handed to Humanity
 
-## Most people don't use AI. That's not a flaw.
-
 **Pop quiz. Which of these best describes you?**
 
 - You use a ChatGPT-type interface for conversational research. Other examples: Copilot, Gemini, Claude.
