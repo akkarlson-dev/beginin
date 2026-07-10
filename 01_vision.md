@@ -10,6 +10,8 @@ The walled community described below isn't dead, it's shelved on purpose. I'm no
 
 Alongside begiN, I'm also launching a separate publication under my own name, Amy Karlson's Substack. begiN teaches the mechanics, mechanical and voiceless on purpose. This is where I write about what's actually going on with AI right now, at the level of rigor a technical reader would expect, but for someone who isn't one. Same underlying research, same real citations, translated instead of hedged. A post there might run something like "Your AI search box has bad boundaries," title not locked yet, naming a real, felt problem plainly instead of dressing it up as an abstract argument. That's the split: one publication gets you running. The other says what I actually think.
 
+Both are past the idea stage. I've got roughly six deep topics already scoped for Amy Karlson's Substack and a four-to-six post arc mapped for begiN. What's left now is mostly execution, not invention.
+
 ---
 
 ## 1\. What This Is
