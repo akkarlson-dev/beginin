@@ -1,6 +1,8 @@
 # iN: Now
 *Updated June 2026. Current state, open items, what's next.*
 
+**Note, July 2026:** this doc is stale on the community/pricing model below, see the cover note at the top of `01_vision.md` for the current, actual three-month plan (begiN as a solo-executable, free, three-post on-ramp; the walled community shelved until it's earned, not the current build target).
+
 ---
 
 ## Project Status: June 2026

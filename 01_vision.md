@@ -4,6 +4,12 @@
 
 ---
 
+**A note on where this actually stands, July 2026.** The plan below describes two things: a community I designed in real detail, and an on-ramp I'm actually building right now. I've split them on purpose. begiN, the free, self-serve, three-post Substack sequence that takes someone from zero to a working iN system using nothing but tools they already have, is scoped to run without a team, without live sessions, and without me as the engine. It's built to be fully executable by me alone over the next three months. Everything past that, the deeper, custom-built version of this, lives separately, in my own ongoing writing, not in a public how-to anyone can follow blind.
+
+The walled community described below isn't dead, it's shelved on purpose. I'm not going to bootstrap a paid, live community on my own labor as a bet with no signal behind it yet. If the free on-ramp generates real, organic demand, that's the moment this becomes worth building properly, funded and staffed, not a solo grind. Until then, read what follows as the fuller vision, real and thought through, and intentionally not the next three months.
+
+---
+
 ## 1\. What This Is
 
 iN is a sandbox for AI literacy: a place to put things in first, before you know what you'll ask of them, so the questions worth asking of AI show up on their own instead of staring back at you from a blank box.
@@ -255,7 +261,7 @@ Full palette (May 2026):
 
 The on-ramp needs to feel safe, peer-supported, and not require performing confidence you don't have yet. That's begiN. The door is open to everyone.
 
-**The field test:** The original pitch was tested on a researcher at a major AI lab — roughly the anchor persona demographic — who heard "for women" and evaluated it as a niche product pitch. Her feedback: "I don't know that people will rally behind this, but it's a good exercise for alignment." She performed the exact dynamic begiN exists to fix: someone with access and education looked at the on-ramp problem and concluded it was for other people.
+**The field test:** The original pitch was tested on a researcher at a major AI lab, roughly the anchor persona demographic, who heard "for women" and evaluated it as a niche product pitch. Her feedback: "I don't know that people will rally behind this, but it's a good exercise for alignment." She performed the exact dynamic begiN exists to fix: someone with access and education looked at the on-ramp problem and concluded it was for other people.
 
 She's not an edge case. She's the proof of concept. The pitch has since been reframed: women are the proof of concept, not the gate. Anyone who catches themselves thinking "that's not for me" is the target reader.
 
@@ -307,9 +313,9 @@ Thick Skin is one instance of a pattern that generalizes across any iN-powered a
 
 **Why this matters for iN:** The spreadsheet is the substrate. Every lens is just a prompt. The marketplace is the collection of validated lenses, shareable across the community. Your data never leaves. Only the prompt travels.
 
-**Signal Lens (v1, June 2026):** The first iN lens built for external content. Not for personal captures: for incoming articles, podcasts, anything worth digesting. A standardized 12-field prompt — Abstract, Mechanism, Recommendation, Originality, Lineage Trace, and more — that converts any piece into a comparable archival digest. Every run produces the same output shape, which makes digests stackable and comparable over time. Run five to ten pieces from the same creator through it, and a per-person "Constant-Finder" read becomes legible: does the output shape track the input, or does the same structure recur regardless of topic?
+**Signal Lens (v1, June 2026):** The first iN lens built for external content. Not for personal captures: for incoming articles, podcasts, anything worth digesting. A standardized 12-field prompt, Abstract, Mechanism, Recommendation, Originality, Lineage Trace, and more, that converts any piece into a comparable archival digest. Every run produces the same output shape, which makes digests stackable and comparable over time. Run five to ten pieces from the same creator through it, and a per-person "Constant-Finder" read becomes legible: does the output shape track the input, or does the same structure recur regardless of topic?
 
-This only becomes visible across a corpus. Ryan Holiday's rhetorical move (name-drop, one-line gloss, pivot to the productivity point) is invisible from inside one piece. Dan Harris's format collapse (every question resolves to a guided meditation) is invisible from inside one episode. The Constant-Finder is not a credibility question. It fires on high-trust and low-trust creators alike — measuring responsiveness of output to input, not honesty.
+This only becomes visible across a corpus. Ryan Holiday's rhetorical move (name-drop, one-line gloss, pivot to the productivity point) is invisible from inside one piece. Dan Harris's format collapse (every question resolves to a guided meditation) is invisible from inside one episode. The Constant-Finder is not a credibility question. It fires on high-trust and low-trust creators alike, measuring responsiveness of output to input, not honesty.
 
 The content filter architecture handles the evaluation at four independent layers: messenger credibility (Axis A), content provenance (Axis B), standing resonance (Axis C), and intake query (query-time only, never archived). A mood is not a trait. A personal allergy is not a credibility verdict. The layers must never edit each other.
 

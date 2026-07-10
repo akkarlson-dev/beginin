@@ -196,6 +196,95 @@ From here, follow the Foot steps above starting from "Go to forms.google.com."
 - Foot: Building a form from a text spec
 - ShiN: Extracting real signal from your own data
 
+---
+
+## Post 2: What you've been putting iN
+*Draft, not yet published. Rewritten July 9 2026 to stay Google-ecosystem-only (no coding tool, no Claude Code). The AppSheet walkthrough below is realistic but not yet click-tested end to end against a real Sheet, verify before this goes live.*
+**Subtitle:** Go look at what's actually in your own pantry.
+**Today's skill:** Build a real app off your own data.
+
+| | | |
+|---|---|---|
+| **Toe** | Phone only. Open your own Sheet and just look. | Five minutes. |
+| **Foot** | Laptop or PC. Build a real, installable todo app off your Sheet, no code. | Twenty minutes. |
+| **ShiN** | Laptop or PC + Google One AI Premium. Add a second view and a smart jump link, AI writes the one expression involved. | Twenty minutes. |
+
+---
+
+Last week you set up your pantry. If you've been using it, you've got entries sitting in there now, ten of them, or fifty. This week we go look. Not at the raw list, an actual app, built off your own data, that you made yourself, with no code.
+
+If you've been skeptical this is anything more than a diary nobody reads: this is the post that answers that. Not by arguing with you. By showing you what comes back out.
+
+Pick your level and scroll down.
+
+---
+
+### Toe
+
+*Phone only. One new install this time. You already have everything else you need from last week.*
+
+**Step 1: Install Google Drive and find where your Sheet actually lives**
+
+Install the Google Drive app (free), if you don't have it yet. Open it and find the spreadsheet Post 1 created for you, the one your Form has been feeding since you started capturing. It's usually sitting loose at the top level of your Drive, named something like "iN Form (Responses)."
+
+This matters beyond just having a shortcut. Last week you made an entry point. This week, look at where the thing you're filling actually lives. It's a real file, in a real folder, in a system you already own. You'll want that mental model once there's more than one thing in there, a Sheet today, maybe capture folders for other kinds of material (photos, scans, notes) later. If you want, this is a fine moment to give it a home of its own, a folder just for iN, instead of leaving it loose. Not required, just easier later if you start now.
+
+**Step 2: Open your Sheet**
+
+Open the Google Sheets app (free, if you don't have it yet) and open the spreadsheet you just found.
+
+**Step 3: Just look**
+
+Scroll through it. That's the whole step. You're not organizing anything yet, you're seeing your own raw material for the first time as a set, not as individual moments.
+
+Notice what's actually in there. Which tags did you actually use versus which ones you thought you'd use. What shows up more than you expected. What you forgot you'd captured at all.
+
+**Step 4: Sort, if you want to**
+
+Tap a column header (the three dots menu on mobile) and sort by date, or filter by tag. This is manual, no AI involved, just your own eyes on your own pantry shelf.
+
+**That's it.** This tier doesn't unlock anything new, it just makes you look at what you already built. Some people skip this step because it feels too simple. Don't. The next two tiers assume you've actually seen your raw data first.
+
+---
+
+### Foot
+
+*This step requires a laptop or PC. No coding tool, no Claude Code, no Apps Script editor. Just Google.*
+
+Go to [appsheet.com](https://appsheet.com) and sign in with the same Google account your Form has been feeding. Click **Create** → **App** → **Start with your own data**, and pick your iN Sheet. AppSheet reads your columns automatically and generates a working starter app in under a minute, a real one, with views already built from what it found.
+
+It'll be rough. That's fine, that's the starting point, not the finish. Do three things to make it yours:
+
+1. **Rename the view** from the Sheet's raw name to something like "iN Todo."
+2. **Add a status column, if AppSheet didn't already find one.** In the Data tab, add a new column called `status`, type **Yes/No**, and check "Show." This is your done/not-done toggle.
+3. **Turn on the checkbox.** In the view's settings, set the row-tap behavior to edit, and AppSheet will show your `status` column as a real checkbox on every row, tap it, it writes back to your Sheet immediately.
+
+Click **Deploy** in the top right, then open the app on your phone (AppSheet has its own app, or you can save the web version to your home screen the same way you saved the Form in Post 1). Tap a few boxes. Watch your Sheet. They match, live.
+
+That's it. You built a real, working, installable app off your own data, today, with zero code. That's the thing that was in your pantry, coming back out as something you can actually use.
+
+---
+
+### ShiN
+
+*This step requires a laptop or PC and Google One AI Premium ($20/month).*
+
+Two additions, both still no-code in spirit, one of them AI-assisted:
+
+**A second view.** In AppSheet's UX tab, add a new view, same data source, different type, a calendar or a filtered list (only entries tagged a certain way, for instance). This is pure clicking, no expressions.
+
+**A smart jump link.** This is the one place an actual formula shows up, AppSheet calls them expressions, closer to a spreadsheet formula than code. Ask Gemini to write it for you: *"Write an AppSheet expression for a virtual column that returns an Amazon search link if the Capture text starts with 'buy' or 'order', a Google search link if it starts with 'research' or 'look up', and blank otherwise."* Paste what it gives you into a new virtual column, show it as a button. Now tapping certain rows takes you straight to Amazon or Google, not just to a checkbox.
+
+Same "it's your playground" framing as Post 1's ShiN: you're not following someone else's app anymore, you're deciding what your own data should do for you.
+
+---
+
+**Skills from this post**
+
+- Toe: Knowing where your own data actually lives, and reading it before you organize it
+- Foot: Building a real, working app off your own data with no code at all
+- ShiN: Extending a working tool with one AI-written expression instead of replacing the tool
+
 **Picked up along the way**
 
 - Your phone is for capturing. Your computer is for building.
