@@ -179,26 +179,26 @@ Design can create enough delight that people choose to come back. That's the pul
 - No assholes. Safe by design.  
 - A castle is safe because of its moat and its walls. The price of entry is the price of intention.
 - **Three-layer ownership:** Amy owns the method. The subgroup steward owns the framework. The member owns their data.
-- **Pricing (graduated model):** $60 month one, $30 month two, $15/month steady state after that. Designed so leaving costs nothing and staying costs less over time: front-loads the price for people who want a short, intense on-ramp and get out, tapers to something light for people who stick around. Not a retention trap: nobody gets penalized for passing through, and nobody who stays gets bled. See `16_onramp_course.md` for the 5-week curriculum this pricing wraps around.
+- **Pricing:** not the focus right now, and not something worth locking down while begiN itself is still free and unproven. If the walled community gets built, the rough shape is graduated: front-loaded for a short, intense on-ramp, tapering to something light for people who stick around, not a retention trap either way. See `16_onramp_course.md` for the curriculum this would wrap around.
 
 ---
 
-## 7\. The Plaza vs. Church Distinction
+## 7\. Two Things begiN Isn't
 
-**Some communities are churches.** Identity-based groups (organized around a shared practice, belief, or recovery) have doctrine. You have to fit the alignment to enter. When something falls outside the theology, the church correctly says no. That's what churches do.
+**Many communities are identity-gated.** You have to already be something, in recovery, a knitter, a lawyer, a parent, to belong. That's not a flaw: a space built around a shared struggle or identity needs everyone in the room to actually share it, or the safety it depends on breaks. When something falls outside that shared ground, the community correctly says no.
 
-**Open platforms are the other extreme.** No doctrine, no rules, no safety. Anyone can show up. The cost is that people who need structure to feel safe usually can't stay.
+**Prompt-sharing communities are the other extreme, and the nearer comparison for begiN.** Discord servers, subreddits, prompt marketplaces: organized around skill level and output, not identity. Low structure, no real safety net, transactional by design, drop a prompt, take a prompt, nobody owes anybody continuity.
 
-**begiN lives in between, intentionally.** Gravity without doctrine. No one has to perform a particular identity to belong. But it has rules: no assholes, no showing off, no dumb questions. The price of entry is the price of intention.
+**begiN is curiosity-gated instead.** No identity to perform, no doctrine to share: the entry conditions are the three already named in §4, admit you don't know something, be willing to learn, keep it a safe space. But it has rules that prompt-sharing communities don't reliably have: no assholes, no showing off, no dumb questions. The price of entry is the price of intention.
 
-A plaza. Not a church. Not an open field.
+A plaza. Not identity-gated. Not a prompt-sharing feed.
 
-**This is why begiN must never become a church.** And why an open platform alone is never enough.
+**This is why begiN stays curiosity-gated, not identity-gated.** And why a prompt-sharing feed alone is never enough.
 
 **Come for one thing, leave with many.** *(Added July 2026. Extends §2.5's graduation framing with what the plaza metaphor was already carrying.)* A plaza doesn't ask everyone who walks through it to want the same thing, or to want it at the same depth. Three honest modes, not a funnel between them:
 
-- **The transaction.** You came for the cucumber. You got the cucumber. You leave. This is a complete, successful visit, not a missed upsell. This is the $60-and-done version of the pricing model in §6, and it's the sandbox/graduation thesis in §2.5 in its simplest form.
-- **The browse.** You came for the cucumber, but the stall next to it caught your eye, and the one past that. You linger, you buy a few things you didn't plan on, you come back next week to see what's new. This is the tapering $30 → $15/month version: price drops as staying becomes its own reward rather than something to be talked into.
+- **The transaction.** You came for the cucumber. You got the cucumber. You leave. This is a complete, successful visit, not a missed upsell. This is the pay-once-and-done version of the pricing shape in §6, and it's the sandbox/graduation thesis in §2.5 in its simplest form.
+- **The browse.** You came for the cucumber, but the stall next to it caught your eye, and the one past that. You linger, you buy a few things you didn't plan on, you come back next week to see what's new. This is the tapering-price version: price drops as staying becomes its own reward rather than something to be talked into.
 - **The stall.** Someone who used to just browse starts running a table of their own: the domain they went deep on becomes the thing other people come to them for. This is already in the doc, just not named this way: it's the subgroup steward role in §6 ("the subgroup steward owns the framework"). The plaza framing makes the on-ramp for *becoming* one legible: browser to regular to someone who sets up a stall, not a separate track you have to apply for.
 
 **Naming note:** "vendor," "artisan," "domain expert," and "shepherd" are candidates for what to call this third mode in public-facing copy; "subgroup steward" is the internal term for now (§6).
@@ -366,28 +366,13 @@ Lines worth keeping. Each one is also a proof-of-concept for what iN does: catch
 
 ---
 
-## 14\. Open Action Items
-
-- [x] OUT design session ✓ resolved July 2026: two kinds of not-returning (avoidance vs. graduation), see §5. Related but distinct: `15_out_instantiations.md` on OUT as output-instantiation.
-- [ ] **New (July 2026):** finalize the ~250-400 price-point / call-cadence sketch for the course (weekly lesson calls + office hours, possibly mapped to the first 4 Substack posts). Not yet decided, graduated monthly pricing above is separate and locked, this is additive structure on top of it
-- [ ] Lens color palette: full system for subgroup differentiation within citrus/black brand  
-- [x] Slides 03–08: rebuild in Playfair/DM Mono/citrus visual language ✓ done  
-- [x] Full deck assembly: `resources/in-deck/Latest/IN_begIN_full_deck.html` ✓ done  
-- [x] User research file: `IN_user_research.md` ✓ done. Brigette, chapstick member, Sarah K., Greg quotes. Study design notes.
-- [ ] Shareable manifesto (Doc 2\): not yet written; source material is the concepts doc  
-- [ ] Biography / origin story: dump the mess, shape it here  
-- [ ] Influential people list: targets identified, strategy for when/how to activate TBD  
-- [ ] Screen time data: Android export pipeline explored; iPhone limited to screenshots; consider as iN data source for behavioral self-analysis lens
-
----
-
-## 15\. How to Use This Document
+## 14\. How to Use This Document
 
 This document is a living synthesis. Add to it when something worth preserving surfaces. The atoms are always owned by the user.
 
 ---
 
-## 16\. Icon / Visual Mark: Status (May 2026)
+## 15\. Icon / Visual Mark: Status (May 2026)
 
 **Concept: fully solved.**
 

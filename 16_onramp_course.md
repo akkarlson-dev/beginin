@@ -1,6 +1,6 @@
 # The On-Ramp: A 5-Week Course
 
-**Status:** July 2026. First full curriculum draft, written in direct response to a portfolio-feedback exchange with Merrie Morris (full exchange: `claude_convos/merrie_morris_feedback_exchange.md`). Pairs with the graduated pricing model in `01_vision.md` §6 and the sandbox-not-movement framing in §2.5.
+**Status:** July 2026. First full curriculum draft, written in direct response to a portfolio-feedback exchange with Merrie Morris (full exchange: `claude_convos/merrie_morris_feedback_exchange.md`). Pairs with the pricing shape sketched in `01_vision.md` §6 and the sandbox-not-movement framing in §2.5.
 
 ---
 
@@ -32,7 +32,7 @@ No one exits with a finished product. They exit with a method: bring a question,
 
 ## Pricing and Cadence
 
-Wraps the graduated model in `01_vision.md` §6: $60 month one, $30 month two, $15/month steady state. Weekly live call plus office hours during the 5 weeks (mirrors the community's existing live-session cadence, §6 of `01_vision.md`). Whether a second cohort of "material" gets added past week 5, or the steady state is closer to "find an interest, dig in for a bit, then leave," is genuinely open. See the still-undecided price-point/call-cadence sketch flagged in `01_vision.md` §14. Both outcomes are fine. That's not a hedge, it's the actual design position: some people stay, most pass through, same as any real space.
+Wraps the graduated pricing shape in `01_vision.md` §6, front-loaded then tapering, not finalized. Weekly live call plus office hours during the 5 weeks (mirrors the community's existing live-session cadence, §6 of `01_vision.md`). Whether a second cohort of "material" gets added past week 5, or the steady state is closer to "find an interest, dig in for a bit, then leave," is genuinely open, including the ~250-400 price-point and call-cadence for what that second cohort would look like. Both outcomes are fine. That's not a hedge, it's the actual design position: some people stay, most pass through, same as any real space.
 
 ---
 

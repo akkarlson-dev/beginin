@@ -204,7 +204,7 @@ Amy is in service of the movement — not the other way around. She is the stewa
 - "notice. capture. begiN."
 - "The tool's power scales with the user's literacy."
 - "Generic iN. Generic out. Every time."
-- "TLC is a church. iN is a plaza."
+- "Many communities are identity-gated. iN is curiosity-gated."
 - "Anyone can be a begiNner."
 - "Put it iN."
 - "Did you put it iN?"

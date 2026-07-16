@@ -35,7 +35,7 @@ The project is in active development. The vision is fully formed. The execution 
 | Decision | Answer |
 |----------|--------|
 | Community platform | Mighty Networks Business (~$119/mo) + Mighty Networks Mobile App |
-| Membership model | Free entry → $30–50/month paid. Gift memberships available. |
+| Membership model | Free entry → paid, graduated, not finalized. Gift memberships available. |
 | Community name | **begiN** |
 | Member noun | **begiNners** |
 | Apple Developer entity | Smith-Karlson LLC |
