@@ -4,13 +4,13 @@
 
 ---
 
-**A note on where this actually stands, July 2026.** The plan below describes two things: a community I designed in real detail, and an on-ramp I'm actually building right now. I've split them on purpose. begiN, the free, self-serve Substack sequence that takes someone from zero to a fully automated, end-to-end PKM system using nothing but tools they already have, plus room to extend into their own domain-specific hobby skills, is scoped to run without a team, without live sessions, and without me as the engine. Every post has its own Toe/Foot/ShiN progression inside it. The sequence itself is a small, bounded number of posts, not open-ended, starting around four or five, not the three I first cut it down to. It's built to be fully executable by me alone over the next three months. Everything past that, the deeper, custom-built version of this, lives separately, in my own ongoing writing, not in a public how-to anyone can follow blind.
+**A note on where this actually stands, July 2026.** The plan below describes two things: a community I designed in real detail, and an on-ramp I'm actually building right now. I've split them on purpose. begiN, the free, self-serve Substack sequence that takes someone from zero to a fully automated, end-to-end PKM system using nothing but tools they already have, plus room to extend into their own domain-specific hobby skills, is scoped to run without a team, without live sessions, and without me as the engine. Every post has its own Toe/Foot/ShiN progression inside it. The sequence itself is a small, bounded number of posts, not open-ended, starting around four or five. It's built to be fully executable by me alone over the next three months. Everything past that, the deeper, custom-built version of this, lives separately, in my own ongoing writing, not in a public how-to anyone can follow blind.
 
 The walled community described below isn't dead, it's shelved on purpose. I'm not going to bootstrap a paid, live community on my own labor as a bet with no signal behind it yet. If the free on-ramp generates real, organic demand, that's the moment this becomes worth building properly, funded and staffed, not a solo grind. Until then, read what follows as the fuller vision, real and thought through, and intentionally not the next three months.
 
-Alongside begiN, I'm also launching a separate publication under my own name, Amy Karlson's Substack. begiN teaches the mechanics, mechanical and voiceless on purpose. This is where I write about what's actually going on with AI right now, at the level of rigor a technical reader would expect, but for someone who isn't one. Same underlying research, same real citations, translated instead of hedged. A post there might run something like "Your AI search box has bad boundaries," title not locked yet, naming a real, felt problem plainly instead of dressing it up as an abstract argument. That's the split: one publication gets you running. The other says what I actually think.
+Alongside begiN, there's an alternative or parallel track: a personal-branded Substack, something like "voices from the edge of the tech world," honest discussion of what's actually going on with AI right now, at the level of rigor a technical reader would expect, but for someone who isn't one, same underlying research, same real citations, translated instead of hedged, rather than the mechanics begiN teaches. About a dozen topics already mapped out, say. Whether that becomes a public publication or just something shown to friends and a small, rogue community of fans isn't decided. If it happens, a post might run something like "Your AI search box has bad boundaries," naming a real, felt problem plainly instead of dressing it up as an abstract argument. That's the split, if both tracks exist: one gets you running. The other is an analysis by topic.
 
-Amy Karlson's Substack is past the idea stage: roughly six deep topics already scoped, real research behind them, mostly execution from here. begiN's shape is set, the same four-to-six post arc, but only the first two posts are actually built out, the rest are still open.
+begiN's shape is set: the same four-to-six post arc, but only the first two posts are actually built out, the rest are still open.
 
 ---
 
@@ -20,7 +20,7 @@ iN is a sandbox for AI literacy: a place to put things in first, before you know
 
 Not a practice. Not a habit you're supposed to keep. A piggy bank with a lock: you fill it because filling it costs nothing, and once something you actually care about is in there, wanting it back out teaches you everything else.
 
-begiN is the community layer: the plaza, not the church. Where you watch other people ask, and learn from what works. Come for one thing, leave with many.
+begiN is the community layer: the space where people learn to use iN by watching other people use it. Come for one thing, leave with many.
 
 Smith-Karlson LLC is the parent entity.
 
@@ -44,7 +44,7 @@ Capturing is the trojan horse: a practically useful tool that builds AI literacy
 
 **The summary is always some kind of lie.** AI is mediating almost all digital interactions now. Every helpful interface makes decisions for the user and calls it power. iN is the counter-move: raw inputs, owned by the user, retrievable on demand, questioned with real intent.
 
-*Source: this section is a distillation of a real field test. Merrie Morris read an earlier version of this portfolio and read it as "ingest personal data into AI and value emerges," which is close to the opposite of the thesis. Amy's reply is the sharper version of this argument. Full exchange: `claude_convos/merrie_morris_feedback_exchange.md`.*
+*This section was sharpened after a real field test: Merrie Morris read an earlier version of this portfolio and read it as "ingest personal data into AI and value emerges," close to the opposite of the intended thesis. Full exchange: `claude_convos/merrie_morris_feedback_exchange.md`.*
 
 ---
 
@@ -59,6 +59,10 @@ Capturing is the trojan horse: a practically useful tool that builds AI literacy
 
 If a is true and c is verified, you can judge D. b is boxed in by knowns on both sides. You do not have to trust the black box. You test it.
 
+**Why a can't just be existing data.** "a" means chosen signal, not passive exhaust. Email, browsing history, old documents: that's data, but nobody curated it for truth or relevance, it's the residue of living, not a record of what mattered. Passive data can't carry the "true and specific" property a needs, because nothing selected it for that. A deliberate capture, something a person decided was worth keeping, has already been filtered once, by the person who cared enough to keep it. That filtering is the value add, not overhead to automate away. Ingesting everything doesn't make a stronger, it makes a undefined, which is a different failure than the one it's trying to solve.
+
+*Source: sharpened in response to Ben Bederson's portfolio feedback, which proposed ingesting existing email or documents instead of deliberate capture. Full exchange: `claude_convos/Ben thoughts on iN.md`.*
+
 **Reproducibility:** The same framework (c) applied to the same question by two different people with different personal data (a) produces structurally comparable outputs. The prompt is the public part. The personal data is always private. That is a method, not a magic trick. That is a course.
 
 **c is the passion point:** The "c" does double duty. Epistemically, it is the trusted external resource that lets you validate the output. Motivationally, it is the thing you care enough about to bring to the tool. The knitter's c is the pattern. The lawyer's c is the statute. The person in recovery's c is the 12 steps or NVC. They bring it because they care. And because they bring something real, they can judge what comes back.
@@ -71,12 +75,12 @@ This is why begiN subgroups are organized around shared c's, not AI skill levels
 
 ## 2.5 The Sandbox, Not the Movement
 
-*Revised July 2026. "Practice" and "movement" were May 2026 framing: both implied an ongoing thing you're supposed to keep doing or keep belonging to. Neither is true, and neither is the point. Superseded, not deleted: see below for what's kept.*
+*iN is a sandbox, not a movement or an ongoing practice: neither implies something you're supposed to keep doing or keep belonging to, and neither is the point.*
 
 **The problem is cognitive, not technical.**
 The digital divide is no longer about access. Everyone has a phone. Most people have a Google account. The divide now runs along lines of education, tech-savviness, age, and confidence. The people left behind aren't locked out of the tool. They're locked out of the question. Nobody showed them what to bring to the blank box. This part holds up unchanged.
 
-**The mission (locked May 2026, framing revised July 2026):**
+**The mission:**
 Teach ordinary people the first act of AI fluency: put something in before you ask. Not built for founders optimizing for scale. For the person who is afraid of the blank box. For the person who has five apps and can't find anything. For the person who uses AI as a search bar because that's all anyone ever showed them.
 
 **A sandbox, not a subscription to belong to:**
@@ -119,13 +123,13 @@ The scrappiness is the proof of concept. One person. Public tools. No VC. No per
 
 A VP. A grandmother. A developer. Someone who's been told this isn't for them. Same starting line. Same invitation.
 
-**begiNners**: the word lives inside "begiNners." begiNner's mind. Buddhism. Hidden movement of empowerment. We're all begiNners. That's not weakness. That's the starting position.
+**begiNners**: the word lives inside "begiNners." begiNner's mind, from Buddhism: approaching something with openness, without the baggage of assumed expertise. We're all begiNners. That's not weakness. That's the starting position.
 
 ---
 
 ## 5\. The iN Arc: A Skill Ladder
 
-*Revised July 2026. The original version of this section read as stages of enlightenment: Notice, Connect, Reflect, Inspire, which implies personal growth is the goal everyone is working toward. It isn't. This is a tool for getting sophisticated with AI, not a tool for getting sophisticated with yourself. Self-awareness is a real, common side effect for people who are already geeks about personal reflection. It is not the design goal, and nothing here requires it or measures you against it.*
+*This is a tool for getting sophisticated with AI, not a tool for getting sophisticated with yourself. Self-awareness is a real, common side effect for people who are already inclined toward personal reflection. It is not the design goal, and nothing here requires it or measures you against it.*
 
 This ladder mirrors the LLM literacy progression already specified for the CHI 2027 study (`IN_CHI2027_outline.md` §3.4), grounded in Dreyfus & Dreyfus skill-acquisition theory and Kolb's learning cycle, restated here in plain language.
 
@@ -148,7 +152,7 @@ This ladder mirrors the LLM literacy progression already specified for the CHI 2
 
 Design can create enough delight that people choose to come back. That's the pull, and it's still worth building. Or design can get out of the way and let truth do the pulling from the inside. Both are real. Only one of them is something you can engineer on purpose.
 
-**Key iNsight on OUT (revised July 2026, corrected):** There are two different kinds of not-coming-back. The first was misdiagnosed here in May as avoidance (returning means confronting something). That's real but minor, much less likely than the actual main driver: plain inertia. Not doing something is always structurally easier than doing it. A system that just sits there doesn't pull anyone back on its own. Overcoming that default takes one of two things: an external pull (the system reaches out, invites, offers something worth the click) or an internal one (the user's own iNtention, no prompting needed). Same logic as PhyDigit's Cost(engaging) vs. Cost(refraining) model (`IN_CHI2027_outline.md` §2.2), applied here to return instead of entry. The second kind is graduation: someone got what they needed in five entries or five weeks, and leaving is the whole point, not a failure of retention. Design should keep lowering the cost of the pull. It should stop trying to prevent graduation. See `15_out_instantiations.md` for the fuller argument (OUT as a cheap, disposable layer over the durable data) and §2.5 above (the sandbox framing this resolves into).
+**Key iNsight on OUT:** There are two different kinds of not-coming-back. The first is avoidance (returning means confronting something), real but minor, much less likely than the actual main driver: plain inertia. Not doing something is always structurally easier than doing it. A system that just sits there doesn't pull anyone back on its own. Overcoming that default takes one of two things: an external pull (the system reaches out, invites, offers something worth the click) or an internal one (the user's own iNtention, no prompting needed). Same logic as PhyDigit's Cost(engaging) vs. Cost(refraining) model (`IN_CHI2027_outline.md` §2.2), applied here to return instead of entry. The second kind is graduation: someone got what they needed in five entries or five weeks, and leaving is the whole point, not a failure of retention. Design should keep lowering the cost of the pull. It should stop trying to prevent graduation. See `15_out_instantiations.md` for the fuller argument (OUT as a cheap, disposable layer over the durable data) and §2.5 above (the sandbox framing this resolves into).
 
 **"iN the iNstant":** iN is the thing you do iN the iNstant. Capture without friction. Gets it out of short-term memory. No tagging scheme. No taxonomy. No hierarchy to maintain. If you abandon it for a month, you pick up without guilt. No more system graveyards.
 
@@ -163,18 +167,19 @@ Design can create enough delight that people choose to come back. That's the pul
 - Built on Google (Big Three). Transparent. Portable. Yours forever.  
 - One tap to capture. No category. No tag. No taxonomy at the door.  
 - Incremental keyword search for retrieval: the key to making return feel possible.  
-- **The forge.** You decide what to build.
+- You decide what to build with it. No one builds it for you. (See §8 for the full forge metaphor.)
+- **On privacy, stated plainly:** each user's data lives in their own Google Sheet, in their own Google account, not on a server Amy or Smith-Karlson LLC controls, and never merged with any other user's data. The one exception: each entry gets sent to Claude's API for classification and keyword extraction, the same trust boundary as typing something into ChatGPT or Claude directly, nothing more. The raw record stays in a spreadsheet the user can open, export, or delete at any time.
 
 ### begiN: The Community
 
 - Live sessions multiple times weekly  
-- Subgroups by interest and lens: each subgroup organized around a shared c (a framework the members already care about), not around AI skill level
+- Subgroups by interest and lens: each subgroup organized around a shared c (a framework the members already care about), not around AI skill level. Modeled on TLC (The Luckiest Club, Laura McKowen's recovery community)'s subgroup structure, organized by interest area, not on prompt-engineering MOOCs, which organize by skill tier instead
 - No calendar commitment to join: just show up  
 - No personal data shared: only prompts and iNsights  
 - No assholes. Safe by design.  
 - A castle is safe because of its moat and its walls. The price of entry is the price of intention.
 - **Three-layer ownership:** Amy owns the method. The subgroup steward owns the framework. The member owns their data.
-- **Pricing (revised July 2026, graduated model, supersedes the flat $30–50/month TBD):** $60 month one, $30 month two, $15/month steady state after that. Designed so leaving costs nothing and staying costs less over time: front-loads the price for people who want a short, intense on-ramp and get out, tapers to something light for people who stick around. Not a retention trap: nobody gets penalized for passing through, and nobody who stays gets bled. See `16_onramp_course.md` for the 5-week curriculum this pricing wraps around.
+- **Pricing (graduated model):** $60 month one, $30 month two, $15/month steady state after that. Designed so leaving costs nothing and staying costs less over time: front-loads the price for people who want a short, intense on-ramp and get out, tapers to something light for people who stick around. Not a retention trap: nobody gets penalized for passing through, and nobody who stays gets bled. See `16_onramp_course.md` for the 5-week curriculum this pricing wraps around.
 
 ---
 
@@ -196,7 +201,7 @@ A plaza. Not a church. Not an open field.
 - **The browse.** You came for the cucumber, but the stall next to it caught your eye, and the one past that. You linger, you buy a few things you didn't plan on, you come back next week to see what's new. This is the tapering $30 → $15/month version: price drops as staying becomes its own reward rather than something to be talked into.
 - **The stall.** Someone who used to just browse starts running a table of their own: the domain they went deep on becomes the thing other people come to them for. This is already in the doc, just not named this way: it's the subgroup steward role in §6 ("the subgroup steward owns the framework"). The plaza framing makes the on-ramp for *becoming* one legible: browser to regular to someone who sets up a stall, not a separate track you have to apply for.
 
-**Naming note:** "vendor," "artisan," "domain expert," "shepherd" are all live candidates for what to call this third mode in public-facing copy, tried out in conversation, not decided. "Subgroup steward" is the locked internal term for now (§6). Worth a real naming pass before this hits anything public-facing. Flagging rather than picking one.
+**Naming note:** "vendor," "artisan," "domain expert," and "shepherd" are candidates for what to call this third mode in public-facing copy; "subgroup steward" is the internal term for now (§6).
 
 **What this buys the pitch:** "a place that satisfies different needs on different days" is a more honest description of begiN than either "sticky community" or "one-and-done course." Nobody has to commit up front to which of the three they're going to be. Most people won't know until they're already in the plaza.
 
@@ -223,7 +228,7 @@ Never buy another vertical tracker app again. Your fitness data. Your financial 
 
 ## 9\. The Brand
 
-**iN is a verb, not a noun. Human being is a verb. So is iN.**
+**iN is a verb, not a noun: the name for the act, not a product you own.**
 
 **Name system (May 2026):**
 - **iN**: the tool, the sandbox, the act. No period.
