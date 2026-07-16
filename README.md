@@ -42,11 +42,14 @@ Questions worth trying:
 | `11_host_meter.md` | Host Meter: three-axis credibility instrument for creators. 14 figures scored. Work in progress. | The case study |
 | `12_thick_skin.md` | Thick Skin: emotionally intelligent communication membrane. Full concept, 9-metric relational framework, AITA entry point, text entry lineage. Parked, not abandoned. | The origin |
 | `13_chi2027_outline.md` | CHI 2027 working paper outline: LLM literacy framework, PhyDigit connection, 18 research questions, formative study design. | The academic argument |
+| `14_personality_wrapped_llms.md` | How personality-wrapped LLM behavior actually works and how to manage it: what's inherent to the base model versus what's wrapper-governed and varies by product. Companion to `17_ai_endpoint_lens.md`. | The behavior layer |
+| `17_ai_endpoint_lens.md` | AI Endpoint Lens: choosing where to do your thinking. Per-product findings (ChatGPT, Claude, Claude Code, Gemini) held to a verified/unverified discipline. | The endpoint comparison |
 | `15_out_instantiations.md` | Why OUT is a sandbox, not the product: four live screenshots of the same capture data through four different views, built cheaply and on demand. | Answers "what does it output" |
-| `16_onramp_course.md` | The 5-week on-ramp curriculum (Sandbox → Refinement → View → Engine → Lens), written in reply to real portfolio feedback. Graduated pricing, no AI in week 1. | Answers "what do people actually do" |
+| `16_onramp_course.md` | The 5-week on-ramp curriculum (Sandbox → Refinement → View → Engine → Lens), written in reply to real portfolio feedback. No AI in week 1. | Answers "what do people actually do" |
 | `signal-lens-v1.md` | The Signal Lens prompt itself. 12-field digest, submittable to any AI engine | Run it |
 | `02_brand.md` | Visual and verbal identity: colors, type, tone rules, writing rules | Reference |
 | `04_substack.md` | Words live at beginin.substack.com: About page, first post | Current publication |
+| `18_amyk_sample_post.md` | Draft sample post for the separate, personal-voice publication alongside begiN, not yet published | A flavor sample |
 | `05_now.md` | Current state: what's built, locked, open | Operational layer |
 
 ---
