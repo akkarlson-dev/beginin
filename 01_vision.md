@@ -40,7 +40,7 @@ The fix is not teaching people to use the blank box directly, although that ends
 
 Capturing is the trojan horse: a practically useful tool that builds AI literacy as a byproduct. Like meditation, the benefit outlasts the easiest read of it once the flywheel gets going. The skill being built isn't prompting. It's having something worth asking, a mental model for what the tool can do, and the willingness to iterate. Bring the intention, drive the direction: that's using a tool with intent, in the opposite order most onboarding assumes. Seed the sandbox first. The questions emerge from what's inside it, not before.
 
-**700 million people use AI. Most use it as a search bar.** Not because they can't do more. Nobody showed them what to bring to it. Generic iN, generic out, every time, regardless of what the tool is actually capable of.
+**700 million people use AI. Most use it as a search bar.** Not because they can't do more. Most never built a mental model for what the tool can actually do, or the habit of bringing something real to it. Generic iN, generic out, every time, regardless of what the tool is actually capable of.
 
 **The summary is always some kind of lie.** AI is mediating almost all digital interactions now. Every helpful interface makes decisions for the user and calls it power. iN is the counter-move: raw inputs, owned by the user, retrievable on demand, questioned with real intent.
 
@@ -65,7 +65,7 @@ If a is true and c is verified, you can judge D. b is boxed in by knowns on both
 
 **Reproducibility:** The same framework (c) applied to the same question by two different people with different personal data (a) produces structurally comparable outputs. The prompt is the public part. The personal data is always private. That is a method, not a magic trick. That is a course.
 
-**c is the passion point:** The "c" does double duty. Epistemically, it is the trusted external resource that lets you validate the output. Motivationally, it is the thing you care enough about to bring to the tool. The knitter's c is the pattern. The lawyer's c is the statute. The person in recovery's c is the 12 steps or NVC. They bring it because they care. And because they bring something real, they can judge what comes back.
+**c is the passion point:** The "c" does double duty. Epistemically, it is the trusted external resource that lets you validate the output. Motivationally, it is the thing you care enough about to bring to the tool. The knitter's c is the pattern. The lawyer's c is the statute. The home cook's c is the recipe. They bring it because they care. And because they bring something real, they can judge what comes back.
 
 This is why begiN subgroups are organized around shared c's, not AI skill levels. The community is organized around what people already give a damn about. Passion is the prerequisite for iNtention. iNtention is the prerequisite for a useful output.
 
@@ -78,7 +78,7 @@ This is why begiN subgroups are organized around shared c's, not AI skill levels
 *iN is a sandbox, not a movement or an ongoing practice: neither implies something you're supposed to keep doing or keep belonging to, and neither is the point.*
 
 **The problem is cognitive, not technical.**
-The digital divide is no longer about access. Everyone has a phone. Most people have a Google account. The divide now runs along lines of education, tech-savviness, age, and confidence. The people left behind aren't locked out of the tool. They're locked out of the question. Nobody showed them what to bring to the blank box. This part holds up unchanged.
+The digital divide is no longer about access. Everyone has a phone. Most people have a Google account. The divide now runs along lines of education, tech-savviness, age, and confidence. The people left behind aren't locked out of the tool. They're locked out of the question: what to bring to the blank box, and how to tell if what comes back is any good. This part holds up unchanged.
 
 **The mission:**
 Teach ordinary people the first act of AI fluency: put something in before you ask. Not built for founders optimizing for scale. For the person who is afraid of the blank box. For the person who has five apps and can't find anything. For the person who uses AI as a search bar because that's all anyone ever showed them.
@@ -173,7 +173,7 @@ Design can create enough delight that people choose to come back. That's the pul
 ### begiN: The Community
 
 - Live sessions multiple times weekly  
-- Subgroups by interest and lens: each subgroup organized around a shared c (a framework the members already care about), not around AI skill level. Modeled on TLC (The Luckiest Club, Laura McKowen's recovery community)'s subgroup structure, organized by interest area, not on prompt-engineering MOOCs, which organize by skill tier instead
+- Subgroups by interest and lens: each subgroup organized around a shared c (a framework the members already care about), not around AI skill level. Community-first, organized by interest area, not by skill tier the way prompt-engineering MOOCs are
 - No calendar commitment to join: just show up  
 - No personal data shared: only prompts and iNsights  
 - No assholes. Safe by design.  
@@ -185,7 +185,7 @@ Design can create enough delight that people choose to come back. That's the pul
 
 ## 7\. Two Things begiN Isn't
 
-**Many communities are identity-gated.** You have to already be something, in recovery, a knitter, a lawyer, a parent, to belong. That's not a flaw: a space built around a shared struggle or identity needs everyone in the room to actually share it, or the safety it depends on breaks. When something falls outside that shared ground, the community correctly says no.
+**Many communities are identity-gated.** You have to already be something, a knitter, a lawyer, a parent, to belong. That's not a flaw: a space built around a shared struggle or identity needs everyone in the room to actually share it, or the safety it depends on breaks. When something falls outside that shared ground, the community correctly says no.
 
 **Prompt-sharing communities are the other extreme, and the nearer comparison for begiN.** Discord servers, subreddits, prompt marketplaces: organized around skill level and output, not identity. Low structure, no real safety net, transactional by design, drop a prompt, take a prompt, nobody owes anybody continuity.
 
@@ -350,7 +350,7 @@ Lines worth keeping. Each one is also a proof-of-concept for what iN does: catch
 
 - *"You can't make anyone go back. Ever."* The design constraint that separates iN from every failed personal system before it.
 
-- *"You can't show up to the box empty-handed."* The tool is not the problem. The on-ramp is missing because nobody told you what to bring.
+- *"You can't show up to the box empty-handed."* The tool is not the problem. The on-ramp is missing.
 
 - *"They do not know commissioning is an option."* Even sophisticated users stop at the wrong abstraction layer. They learn to prompt. They don't learn they can direct.
 
